@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maingga&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=maingga&theme=tokyonight&cache_seconds=86400" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maingga&theme=tokyonight&margin-w=10&no-bg=true" height="160" />
 </p>
 
 ---
