@@ -27,7 +27,6 @@ I'm an enthusiastic Informatics Engineering student with a strong passion for **
 
 - ✉️ Email: ahmad.maingga@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/ahmadnana](https://linkedin.com/in/ahmadnana)  
-- 🌐 Portfolio: [ahmadmaingga.my.id](https://ahmadmaingga.my.id)
 
 ---
 
