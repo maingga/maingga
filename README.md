@@ -1,103 +1,206 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Ahmad Nana Maingga 👋</h1>
-  <p align="center">
-    <strong>Informatics Engineering Student • Full-Stack & Mobile Developer • IoT Enthusiast</strong>
-  </p>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/ahmadnana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:ahmad.maingga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+
+# 👋 Hi, I'm Ahmad Nana Maingga
+
+### Full-Stack Developer · Mobile Developer · IoT Enthusiast
+
+<p>
+  <a href="https://linkedin.com/in/ahmadnana">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmad.maingga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ahmadnana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ahmadnana&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-Driven Informatics Engineering student focused on building modern, scalable web and mobile solutions alongside connected IoT systems. Passionate about clean architecture, responsive design, and transforming complex problems into efficient digital products.
+I'm an **Informatics Engineering student** passionate about building practical, scalable, and user-focused digital solutions.
 
-- 🔭 **Current Focus:** Full-Stack Web Development & Cross-Platform Mobile Apps
-- 💡 **Exploring:** Cloud Computing & Embedded Systems integration
-- 🌱 **Continuous Learning:** Scalable back-end microservices and UI/UX design patterns
-- ⚡ **Fun Fact:** Driven by curiosity, fueled by coffee & clean commits.
+My main interests revolve around **full-stack web development, mobile applications, backend systems, and IoT**. I enjoy turning ideas and real-world problems into functional products with clean architecture and intuitive interfaces.
 
----
+```text
+💻 Full-Stack Development
+📱 Mobile Application Development
+🔌 IoT & Embedded Systems
+☁️ Cloud & Backend Architecture
+🎨 UI/UX & Responsive Design
+🧪 Software Testing & Quality Assurance
+```
 
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts" width="48" height="48" alt="Frontend" />
-      <br><sub><b>Frontend</b></sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs" width="48" height="48" alt="Backend" />
-      <br><sub><b>Backend</b></sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter,java,androidstudio" width="48" height="48" alt="Mobile & IoT" />
-      <br><sub><b>Mobile & IoT</b></sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/IoT-Arduino%20%2F%20ESP-blue?style=flat-square&logo=arduino&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql,firebase" width="48" height="48" alt="Databases" />
-      <br><sub><b>Databases</b></sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git,postman,figma" width="48" height="48" alt="Dev Tools" />
-      <br><sub><b>Tools</b></sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
+* 🔭 Currently focused on **Full-Stack Web & Mobile Development**
+* 🌱 Continuously learning **Backend Architecture, Cloud & DevOps**
+* 🧩 Interested in **scalable systems and software engineering**
+* 🛠️ Enjoy building applications from **database → backend → frontend**
+* ⚡ Believe that good software should be **simple, useful, and maintainable**
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts" />
+</p>
+
+`Next.js` · `React` · `Tailwind CSS` · `TypeScript`
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,php" />
+</p>
+
+`Laravel` · `NestJS` · `Node.js` · `PHP`
+
+### Mobile & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" />
+</p>
+
+`Flutter` · `Java` · `Android` · `Arduino` · `ESP`
+
+### Database & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+`MySQL` · `Firebase`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker" />
+</p>
+
+`Git` · `GitHub` · `Postman` · `Figma` · `Docker`
+
+---
+
+## 📌 Featured Projects
+
+### 🕌 ZIS Mosque Crowdfunding Platform
+
+A web-based crowdfunding platform designed to manage **Zakat, Infaq, and Shodaqoh (ZIS)** donations with a focus on transparency and accountability.
+
+**Highlights**
+
+* 💰 Online donation system
+* 📊 Donation & distribution reporting
+* 🔔 Notification system
+* 🧾 Donation history
+* 💳 Payment gateway integration
+* 📈 Transparent fund management
+
+**Stack:** `Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans`
+
+---
+
+### 🏢 Room Booking Management System
+
+A web-based room reservation system designed to simplify the management of meeting rooms and shared facilities.
+
+**Highlights**
+
+* 📅 Interactive booking schedule
+* ⚡ Real-time booking validation
+* 🚫 Conflict detection
+* 👨‍💼 Admin approval system
+* 📋 Booking history
+* ⏱️ Booking countdown
+
+**Stack:** `PHP` · `MySQL` · `FullCalendar` · `JavaScript`
+
+---
+
+### 🏸 Sport Center Reservation System
+
+A reservation platform for managing sports facility bookings with a modern web interface and structured backend architecture.
+
+**Highlights**
+
+* 🏟️ Facility management
+* 📅 Reservation scheduling
+* 👤 User management
+* 🔐 Authentication
+* 💳 Payment integration
+* 📊 Reservation history
+
+**Stack:** `Next.js` · `Laravel` · `MySQL` · `Midtrans`
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ahmadnana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadnana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnana&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnana&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
+## 🧠 Currently Learning
+
+```text
+Backend Architecture     ███████████████░░░░░
+Cloud & DevOps            ████████████░░░░░░░░
+Mobile Development        ██████████████░░░░░░
+System Design             ██████████░░░░░░░░░░
+IoT & Embedded Systems    ███████████░░░░░░░░░
+Software Testing          █████████████░░░░░░░
+```
+
+> Always learning, building, breaking, fixing, and improving.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing **software development, technology, collaboration, and interesting projects**.
+
 <div align="center">
-  <sub>“Stay curious. Stay coding.” 🚀</sub>
+
+<a href="https://linkedin.com/in/ahmadnana">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ahmad.maingga@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💭 "Stay curious. Keep building. Keep improving."
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
+
 </div>
