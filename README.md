@@ -9,32 +9,34 @@
 <br><br>
 
 <a href="https://github.com/ahmadnana">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://linkedin.com/in/ahmadnana">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:ahmad.maingga@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadnana&label=Profile%20Views&color=58A6FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=ahmadnana&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm an **Informatics Engineering student** passionate about software development and building useful digital products.
 
 I enjoy working across the stack — from designing interfaces and building APIs to managing databases, integrating payment systems, and experimenting with IoT.
 
-My goal is simple:
+My main interests include **full-stack web development, mobile applications, backend engineering, cloud computing, and IoT systems**.
 
-> **Build software that is useful, reliable, maintainable, and enjoyable to use.**
+> **Build useful software. Keep the code clean. Keep learning.**
 
 ### Currently
 
@@ -46,7 +48,7 @@ My goal is simple:
 
 ---
 
-## ⚡ What I Do
+# ⚡ What I Do
 
 <table>
 <tr>
@@ -54,11 +56,11 @@ My goal is simple:
 
 ### 🌐 Web Development
 
-Building responsive and scalable web applications with modern frontend technologies and robust backend systems.
+Building responsive and scalable web applications using modern frontend technologies and robust backend systems.
 
 **Focus**
 
-`Next.js` `React` `TypeScript` `Laravel`
+`Next.js` · `React` · `TypeScript` · `Laravel`
 
 </td>
 
@@ -70,7 +72,7 @@ Creating cross-platform mobile applications with clean interfaces and reliable b
 
 **Focus**
 
-`Flutter` `Java` `Firebase`
+`Flutter` · `Java` · `Firebase`
 
 </td>
 </tr>
@@ -80,11 +82,11 @@ Creating cross-platform mobile applications with clean interfaces and reliable b
 
 ### ⚙️ Backend Engineering
 
-Designing APIs, authentication, databases, payment integrations, and application business logic.
+Designing APIs, authentication systems, databases, payment integrations, and application business logic.
 
 **Focus**
 
-`Laravel` `Node.js` `NestJS` `MySQL`
+`Laravel` · `Node.js` · `NestJS` · `MySQL`
 
 </td>
 
@@ -96,7 +98,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 **Focus**
 
-`ESP32` `Arduino` `Firebase`
+`ESP32` · `Arduino` · `Firebase`
 
 </td>
 </tr>
@@ -110,31 +112,51 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend Technologies" />
+
+<br>
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
 <br><br>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" alt="Backend Technologies" />
+
+<br>
+
+`Laravel` · `PHP` · `Node.js` · `NestJS`
 
 <br><br>
 
 ### Mobile & IoT
 
-<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" />
+<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" alt="Mobile and IoT Technologies" />
+
+<br>
+
+`Flutter` · `Java` · `Android` · `Arduino` · `ESP32`
 
 <br><br>
 
-### Database, Cloud & DevOps
+### Database & DevOps
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Database and DevOps Technologies" />
+
+<br>
+
+`MySQL` · `Firebase` · `Docker` · `Git` · `GitHub`
 
 <br><br>
 
-### Development Tools
+### Tools
 
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Development Tools" />
+
+<br>
+
+`Postman` · `Figma` · `VS Code`
 
 </div>
 
@@ -146,11 +168,11 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 **A web-based crowdfunding platform for Zakat, Infaq, and Shodaqoh focused on transparency and accountability.**
 
-### Features
+### Key Features
 
-* Donation management
+* Online ZIS donations
 * Zakat calculator
-* Donation programs
+* Donation program management
 * Payment gateway integration
 * Donation history
 * Fund distribution management
@@ -160,7 +182,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 * Notification system
 * Automatic program closure
 
-### Stack
+### Technology
 
 `Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS`
 
@@ -168,9 +190,9 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ## 🏸 Sport Center Reservation
 
-**A full-stack reservation platform for managing sports facilities, bookings, and payments.**
+**A full-stack reservation platform designed to simplify sports facility booking and payment management.**
 
-### Features
+### Key Features
 
 * User authentication
 * Sports facility management
@@ -182,7 +204,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 * Reservation history
 * Admin dashboard
 
-### Stack
+### Technology
 
 `Next.js` · `React` · `Laravel` · `MySQL` · `Midtrans`
 
@@ -192,7 +214,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 **An IoT-based system connecting sensors, ESP32, cloud services, and applications for monitoring and automation.**
 
-### Features
+### Key Features
 
 * Sensor monitoring
 * Automated control
@@ -201,7 +223,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 * Cloud connectivity
 * Remote monitoring
 
-### Stack
+### Technology
 
 `ESP32` · `Arduino` · `Firebase` · `Sensors`
 
@@ -212,58 +234,54 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 <div align="center">
 
 ```text
-       ┌─────────────┐
-       │    IDEA     │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   ANALYZE   │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   DESIGN    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │    BUILD    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │    TEST     │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   DEPLOY    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   IMPROVE   │
-       └─────────────┘
+        ┌──────────────┐
+        │     IDEA     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   ANALYSIS   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     BUILD    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     TEST     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DEPLOY    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────────────┘
 ```
 
 </div>
 
 ---
 
-# 📊 GitHub Overview
+# 📊 GitHub
 
 <div align="center">
 
 <a href="https://github.com/ahmadnana">
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=ahmadnana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub Stats" />
+<img src="https://img.shields.io/github/followers/ahmadnana?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1F6FEB" alt="GitHub Followers" />
 </a>
 
-<a href="https://github.com/ahmadnana">
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmadnana&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Top Languages" />
+<a href="https://github.com/ahmadnana?tab=repositories">
+<img src="https://img.shields.io/github/stars/ahmadnana?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=1F6FEB" alt="GitHub Stars" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnana&theme=github-dark-blue&hide_border=true" width="65%" alt="GitHub Streak" />
+<a href="https://github.com/ahmadnana?tab=repositories">
+<img src="https://img.shields.io/github/repos/ahmadnana?style=for-the-badge&logo=github&logoColor=white&label=Repositories&color=1F6FEB" alt="GitHub Repositories" />
+</a>
 
 </div>
 
@@ -295,13 +313,49 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <div align="center">
 
-|    Principle   | Meaning                                             |
-| :------------: | :-------------------------------------------------- |
-|   **Simple**   | Prefer simple solutions over unnecessary complexity |
-|   **Useful**   | Build software that solves real problems            |
-|    **Clean**   | Keep code readable and maintainable                 |
-| **Consistent** | Follow predictable patterns and conventions         |
-|   **Improve**  | Learn from every project and iteration              |
+<table>
+<tr>
+<td align="center" width="20%">
+
+### Simple
+
+Prefer simple solutions over unnecessary complexity.
+
+</td>
+
+<td align="center" width="20%">
+
+### Useful
+
+Build software that solves real problems.
+
+</td>
+
+<td align="center" width="20%">
+
+### Clean
+
+Write readable and maintainable code.
+
+</td>
+
+<td align="center" width="20%">
+
+### Consistent
+
+Follow predictable patterns and conventions.
+
+</td>
+
+<td align="center" width="20%">
+
+### Improve
+
+Learn from every project and iteration.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -313,18 +367,18 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 I'm always open to **interesting projects, collaboration, technology discussions, and new opportunities.**
 
-<br>
+<br><br>
 
 <a href="https://linkedin.com/in/ahmadnana">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:ahmad.maingga@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/ahmadnana">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
