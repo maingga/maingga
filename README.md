@@ -1,270 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0f172a&text=Ahmad%20Nana%20Maingga&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20,24&text=Ahmad%20Nana%20Maingga&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20IoT%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Creating+Mobile+Experiences;Designing+Backend+Systems;Exploring+Cloud+%26+IoT;Turning+Ideas+Into+Digital+Products" alt="Typing Animation" />
+
+<br><br>
+
 <a href="https://github.com/ahmadnana">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/ahmadnana">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ahmad.maingga@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadnana&label=Profile%20Views&color=1e293b&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=ahmadnana&label=Profile%20Views&color=58A6FF&style=flat-square" />
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm an **Informatics Engineering student** passionate about designing and building practical digital products.
+I'm an **Informatics Engineering student** passionate about software development and building useful digital products.
 
-My main interests are **full-stack web development, mobile applications, backend engineering, cloud technologies, and IoT systems**.
-
-I enjoy turning real-world problems into simple, maintainable, and scalable software.
+I enjoy working across the stack — from designing interfaces and building APIs to managing databases, integrating payment systems, and experimenting with IoT.
 
 ```text
-Currently focused on
-
-→ Full-Stack Web Development
-→ Mobile Application Development
-→ Backend & API Architecture
-→ Cloud Computing
-→ IoT & Embedded Systems
-→ Software Quality & Testing
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  Full-Stack Development                         │
+│  Mobile Application Development                 │
+│  Backend & API Engineering                      │
+│  Cloud Computing                                │
+│  IoT & Embedded Systems                          │
+│  Software Testing & Quality Assurance            │
+│                                                 │
+└─────────────────────────────────────────────────┘
 ```
 
----
+### What I'm Doing Now
 
-## What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### Web Applications
-
-Building modern, responsive, and scalable web applications with a strong focus on usability and maintainability.
-
-**Focus**
-
-`Next.js` `React` `Laravel` `TypeScript`
-
-</td>
-
-<td width="50%">
-
-### Mobile Applications
-
-Creating cross-platform mobile experiences with clean interfaces and reliable backend integration.
-
-**Focus**
-
-`Flutter` `Java` `Firebase`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Backend Systems
-
-Designing APIs, authentication systems, database architecture, payment integrations, and business logic.
-
-**Focus**
-
-`Laravel` `Node.js` `NestJS` `MySQL`
-
-</td>
-
-<td width="50%">
-
-### IoT & Connected Systems
-
-Experimenting with embedded systems and connected devices that bridge software and the physical world.
-
-**Focus**
-
-`ESP32` `Arduino` `Firebase`
-
-</td>
-</tr>
-</table>
+* 🔭 Building full-stack web applications
+* 🌱 Learning backend architecture & cloud technologies
+* 📱 Developing mobile applications with Flutter
+* 🔌 Exploring ESP32 and IoT systems
+* 🧪 Improving software testing practices
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
-</p>
+
+<br>
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
+<br><br>
+
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" />
-</p>
+
+<br>
 
 `Laravel` · `PHP` · `Node.js` · `NestJS`
 
+<br><br>
+
 ### Mobile & IoT
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino,raspberrypi" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" />
+
+<br>
 
 `Flutter` · `Java` · `Android` · `Arduino` · `ESP32`
 
-### Database & Cloud
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker" />
-</p>
+### Database & Tools
 
-`MySQL` · `Firebase` · `Docker`
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
-</p>
-
-`Git` · `GitHub` · `Postman` · `Figma` · `VS Code`
-
----
-
-# Featured Projects
-
-## 01 — ZIS Crowdfunding Platform
-
-> A web-based crowdfunding platform for managing **Zakat, Infaq, and Shodaqoh (ZIS)** with a focus on transparency and accountability.
-
-### Key Features
-
-* Online ZIS donation
-* Zakat calculation
-* Donation program management
-* Payment gateway integration
-* Donation history
-* Fund distribution management
-* Transparent donation reports
-* Program wallet management
-* Notification system
-* Automatic program closure
-
-### Technology
-
-```text
-Laravel · MySQL · Tailwind CSS · Midtrans · QRIS
-```
-
----
-
-## 02 — Sport Center Reservation
-
-> A full-stack reservation platform designed to simplify sports facility booking and payment management.
-
-### Key Features
-
-* User authentication
-* Sports facility management
-* Online reservation
-* Reservation scheduling
-* Payment gateway
-* DP payment
-* Transaction management
-* Reservation history
-* Admin dashboard
-
-### Technology
-
-```text
-Next.js · React · Laravel · MySQL · Midtrans
-```
-
----
-
-## 03 — Smart IoT System
-
-> An IoT-based automation system connecting sensors, microcontrollers, backend services, and user interfaces.
-
-### Key Features
-
-* Sensor monitoring
-* Automated control
-* ESP32 integration
-* Real-time data
-* Cloud connectivity
-* Remote monitoring
-
-### Technology
-
-```text
-ESP32 · Arduino · Firebase · Sensors
-```
-
----
-
-# Development Philosophy
-
-I believe good software is not only about writing code.
-
-It's about understanding the problem, designing the right solution, building it properly, testing it carefully, and continuously improving it.
-
-```text
-Understand
-    ↓
-Design
-    ↓
-Build
-    ↓
-Test
-    ↓
-Improve
-    ↓
-Ship
-```
-
-> **Build things that are useful. Keep the code clean. Keep learning.**
-
----
-
-# Currently Learning
-
-<div align="center">
-
-|       Area       | Focus                                        |
-| :--------------: | :------------------------------------------- |
-|      Backend     | API Design · Architecture · Microservices    |
-|       Cloud      | Deployment · Infrastructure · Cloud Services |
-|      DevOps      | Docker · CI/CD · Automation                  |
-|   System Design  | Scalability · Reliability · Architecture     |
-|      Mobile      | Flutter · API Integration · Firebase         |
-| Software Quality | Testing · QA · UAT                           |
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,docker,postman,figma,vscode" />
 
 </div>
 
 ---
 
-# GitHub Statistics
+# 🚀 Featured Projects
+
+### 🕌 ZIS Crowdfunding Platform
+
+**Digital crowdfunding platform for Zakat, Infaq, and Shodaqoh with a focus on transparency and accountability.**
+
+**Features**
+
+`Donation` `Zakat Calculator` `Payment Gateway` `Donation History` `Fund Distribution` `Reporting`
+
+**Stack**
+
+`Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS`
+
+---
+
+### 🏸 Sport Center Reservation
+
+**Full-stack reservation platform for managing sports facilities, bookings, and payments.**
+
+**Features**
+
+`Authentication` `Facility Management` `Online Booking` `Scheduling` `Payment` `Transactions`
+
+**Stack**
+
+`Next.js` · `React` · `Laravel` · `MySQL` · `Midtrans`
+
+---
+
+### 🌱 Smart IoT Automation
+
+**IoT system connecting sensors, ESP32, cloud services, and applications for automated monitoring and control.**
+
+**Features**
+
+`Sensor Monitoring` `Automation` `ESP32` `Real-time Data` `Cloud Integration`
+
+**Stack**
+
+`ESP32` · `Arduino` · `Firebase`
+
+---
+
+## 🧩 Development Workflow
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmadnana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+```text
+   IDEA
+     │
+     ▼
+  ANALYZE
+     │
+     ▼
+  DESIGN
+     │
+     ▼
+   BUILD
+     │
+     ▼
+   TEST
+     │
+     ▼
+  DEPLOY
+     │
+     ▼
+  IMPROVE
+```
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnana&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadnana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -272,37 +185,44 @@ Ship
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnana&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnana&theme=tokyonight&hide_border=true" width="65%" />
 
 </div>
 
 ---
 
-# Contribution Activity
+## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadnana&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" />
+`System Design` · `Backend Architecture` · `Cloud Computing` · `Docker` · `CI/CD` · `Flutter` · `Software Testing`
 
 </div>
 
 ---
 
-# GitHub Trophies
+## 💭 Philosophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadnana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" />
+### **Build simple. Solve real problems. Keep improving.**
+
+<br>
+
+> Good software isn't just about writing code.
+> It's about creating something useful, reliable, and maintainable.
 
 </div>
 
 ---
 
-# Let's Connect
-
-I'm open to **collaboration, interesting projects, software engineering discussions, and new opportunities**.
+## 🤝 Let's Connect
 
 <div align="center">
+
+I'm always open to **interesting projects, collaboration, technology discussions, and new opportunities.**
+
+<br><br>
 
 <a href="https://linkedin.com/in/ahmadnana">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -312,9 +232,9 @@ I'm open to **collaboration, interesting projects, software engineering discussi
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/ahmadnana">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great.;Stay+curious.+Keep+building." />
 
 </div>
 
@@ -322,8 +242,6 @@ I'm open to **collaboration, interesting projects, software engineering discussi
 
 <div align="center">
 
-### Build · Learn · Improve
-
-<sub>© 2026 Ahmad Nana Maingga</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,14,18,20,24" width="100%" />
 
 </div>
