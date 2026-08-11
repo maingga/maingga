@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/ahmadnana">
+<a href="https://github.com/maingga">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadnana&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=maingga&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -271,16 +271,16 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <div align="center">
 
-<a href="https://github.com/ahmadnana">
-<img src="https://img.shields.io/github/followers/ahmadnana?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1F6FEB" alt="GitHub Followers" />
+<a href="https://github.com/maingga">
+<img src="https://img.shields.io/github/followers/maingga?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1F6FEB" alt="GitHub Followers" />
 </a>
 
-<a href="https://github.com/ahmadnana?tab=repositories">
-<img src="https://img.shields.io/github/stars/ahmadnana?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=1F6FEB" alt="GitHub Stars" />
+<a href="https://github.com/maingga?tab=repositories">
+<img src="https://img.shields.io/github/stars/maingga?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=1F6FEB" alt="GitHub Stars" />
 </a>
 
-<a href="https://github.com/ahmadnana?tab=repositories">
-<img src="https://img.shields.io/github/repos/ahmadnana?style=for-the-badge&logo=github&logoColor=white&label=Repositories&color=1F6FEB" alt="GitHub Repositories" />
+<a href="https://github.com/maingga?tab=repositories">
+<img src="https://img.shields.io/github/repos/maingga?style=for-the-badge&logo=github&logoColor=white&label=Repositories&color=1F6FEB" alt="GitHub Repositories" />
 </a>
 
 </div>
@@ -377,7 +377,7 @@ I'm always open to **interesting projects, collaboration, technology discussions
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://github.com/ahmadnana">
+<a href="https://github.com/maingga">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
