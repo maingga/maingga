@@ -276,11 +276,11 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 </a>
 
 <a href="https://github.com/maingga?tab=repositories">
-<img src="https://img.shields.io/github/stars/maingga?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=1F6FEB" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/stars/maingga?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=1F6FEB" alt="GitHub Total Stars" />
 </a>
 
 <a href="https://github.com/maingga?tab=repositories">
-<img src="https://img.shields.io/github/repos/maingga?style=for-the-badge&logo=github&logoColor=white&label=Repositories&color=1F6FEB" alt="GitHub Repositories" />
+<img src="https://img.shields.io/github/public-repos/maingga?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=1F6FEB" alt="GitHub Public Repositories" />
 </a>
 
 </div>
