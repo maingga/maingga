@@ -466,12 +466,16 @@ Let's build something meaningful.
   />
 </a>
 
- <a href="https://www.instagram.com/_maingg/">
+  
+
+<a href="https://www.instagram.com/_maingg/">
   <img
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"
     alt="Instagram"
   />
 </a>
+
+  
 
 <a href="mailto:ahmad.nanamaingga12@gmail.com">
   <img
