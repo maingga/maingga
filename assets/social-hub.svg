@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#1F6FEB"/><stop offset=".5" stop-color="#58A6FF"/><stop offset="1" stop-color="#79C0FF"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="12" y="12" width="1176" height="146" rx="24" fill="#0D1117" stroke="#30363D"/>
+<g font-family="monospace">
+  <text x="600" y="38" text-anchor="middle" fill="#8B949E" font-size="12">SOCIAL CONNECTIONS // SELECT CHANNEL</text>
+  <g transform="translate(55,55)">
+    <rect width="330" height="75" rx="16" fill="#111820" stroke="#1F6FEB"/>
+    <circle cx="42" cy="37" r="22" fill="#161B22" stroke="#58A6FF" filter="url(#glow)"/>
+    <path d="M31 35c0-8 6-14 14-14 5 0 9 2 12 6 3 4 4 9 3 14-1 7-7 12-15 13-5 0-9-2-12-5-2-3-3-7-2-14z" fill="#F0F6FC"/>
+    <text x="80" y="32" fill="#FFFFFF" font-size="16" font-weight="700">GITHUB</text>
+    <text x="80" y="52" fill="#8B949E" font-size="12">@maingga</text>
+  </g>
+  <g transform="translate(435,55)">
+    <rect width="330" height="75" rx="16" fill="#111820" stroke="#1F6FEB"/>
+    <circle cx="42" cy="37" r="22" fill="#161B22" stroke="#58A6FF" filter="url(#glow)"/>
+    <text x="42" y="45" text-anchor="middle" fill="#F0F6FC" font-size="25" font-family="Arial" font-weight="700">in</text>
+    <text x="80" y="32" fill="#FFFFFF" font-size="16" font-weight="700">LINKEDIN</text>
+    <text x="80" y="52" fill="#8B949E" font-size="12">connect with me</text>
+  </g>
+  <g transform="translate(815,55)">
+    <rect width="330" height="75" rx="16" fill="#111820" stroke="#1F6FEB"/>
+    <circle cx="42" cy="37" r="22" fill="#161B22" stroke="#58A6FF" filter="url(#glow)"/>
+    <path d="M29 29h26v17H29z" fill="none" stroke="#F0F6FC" stroke-width="2"/><path d="M30 30l12 9 12-9" fill="none" stroke="#F0F6FC" stroke-width="2"/>
+    <text x="80" y="32" fill="#FFFFFF" font-size="16" font-weight="700">EMAIL</text>
+    <text x="80" y="52" fill="#8B949E" font-size="12">contact channel</text>
+  </g>
+</g>
+</svg>
