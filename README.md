@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:161B22,100:1F6FEB&text=Ahmad%20Nana%20Maingga&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20IoT%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:03060A,45:0D1117,75:161B22,100:1F6FEB&text=AHMAD%20NANA%20MAINGGA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20%2F%20MOBILE%20%2F%20BACKEND%20%2F%20IoT&descAlignY=61&descSize=16&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+Mobile+Experiences;Designing+Backend+Systems;Exploring+Cloud+%26+IoT;Turning+Ideas+Into+Digital+Products" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=BUILDING+DIGITAL+PRODUCTS;ENGINEERING+BACKEND+SYSTEMS;CRAFTING+MODERN+WEB+EXPERIENCES;EXPLORING+CLOUD+%26+IoT;LEARN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE" alt="Animated typing banner" />
 
 <br><br>
 
-<a href="https://github.com/maingga"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/maingga"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=maingga&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -22,72 +22,70 @@
 
 # 👨‍💻 About Me
 
-I'm an **Informatics Engineering student** passionate about software development and building useful digital products.
+> **I build useful software, learn continuously, and enjoy turning ideas into working digital products.**
 
-I enjoy working across the stack — from designing interfaces and building APIs to managing databases, integrating payment systems, and experimenting with IoT.
+I'm an **Informatics Engineering student** focused on full-stack development, backend engineering, mobile applications, cloud technologies, and IoT.
 
-My main interests include **full-stack web development, mobile applications, backend engineering, cloud computing, and IoT systems**.
+I enjoy working across the stack — from UI and API design to databases, authentication, payment integrations, deployment, and connected devices.
 
-> **Build useful software. Keep the code clean. Keep learning.**
+<div align="center">
 
-### Currently
+`WEB`　`MOBILE`　`BACKEND`　`CLOUD`　`IoT`　`TESTING`
 
-* 🔭 Building full-stack web applications
-* 🌱 Exploring backend architecture and cloud technologies
-* 📱 Developing cross-platform mobile applications
-* 🔌 Experimenting with ESP32 and IoT systems
-* 🧪 Improving software testing and engineering practices
+</div>
 
 ---
 
-# ⚡ What I Do
+# 🖥️ Developer Terminal
+
+<div align="center">
+
+<img src="./assets/developer-terminal.svg" width="100%" alt="Developer terminal" />
+
+</div>
+
+---
+
+# ⚡ Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+### 🌐 Web Engineering
 
-Building responsive and scalable web applications using modern frontend technologies and robust backend systems.
+Modern, responsive, maintainable web applications.
 
-**Focus**
-
-`Next.js` · `React` · `TypeScript` · `Laravel`
+`Next.js` `React` `TypeScript` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Mobile Development
+### ⚙️ Backend Engineering
 
-Creating cross-platform mobile applications with clean interfaces and reliable backend integration.
+APIs, authentication, databases, business logic, and integrations.
 
-**Focus**
-
-`Flutter` · `Java` · `Firebase`
+`Laravel` `PHP` `Node.js` `NestJS` `MySQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
+### 📱 Mobile Engineering
 
-Designing APIs, authentication systems, databases, payment integrations, and application business logic.
+Cross-platform experiences connected to reliable backend systems.
 
-**Focus**
-
-`Laravel` · `Node.js` · `NestJS` · `MySQL`
+`Flutter` `Java` `Android` `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 IoT Development
+### 🔌 IoT Engineering
 
-Connecting sensors, microcontrollers, cloud services, and applications to create connected systems.
+Sensors, microcontrollers, cloud connectivity, and automation.
 
-**Focus**
-
-`ESP32` · `Arduino` · `Firebase`
+`ESP32` `Arduino` `Firebase`
 
 </td>
 </tr>
@@ -95,126 +93,99 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Development Arsenal
 
 <div align="center">
 
-### Frontend
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend Technologies" />
-
-<br>
-
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend stack" />
 
 <br><br>
 
-### Backend
+### BACKEND
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" alt="Backend Technologies" />
-
-<br>
-
-`Laravel` · `PHP` · `Node.js` · `NestJS`
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" alt="Backend stack" />
 
 <br><br>
 
-### Mobile & IoT
+### MOBILE & IoT
 
-<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" alt="Mobile and IoT Technologies" />
-
-<br>
-
-`Flutter` · `Java` · `Android` · `Arduino` · `ESP32`
+<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" alt="Mobile and IoT stack" />
 
 <br><br>
 
-### Database & DevOps
+### DATABASE & DEVOPS
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Database and DevOps Technologies" />
-
-<br>
-
-`MySQL` · `Firebase` · `Docker` · `Git` · `GitHub`
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Database and DevOps stack" />
 
 <br><br>
 
-### Tools
+### TOOLS
 
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Development Tools" />
-
-<br>
-
-`Postman` · `Figma` · `VS Code`
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Development tools" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Missions
 
-## 🕌 ZIS Crowdfunding Platform
+## 🕌 Mission 01 — ZIS Crowdfunding Platform
 
-**A web-based crowdfunding platform for Zakat, Infaq, and Shodaqoh focused on transparency and accountability.**
-
-### Key Features
-
-* Online ZIS donations
-* Zakat calculator
-* Donation program management
-* Payment gateway integration
-* Donation history
-* Fund distribution management
-* Transparent financial reporting
-* Program wallet
-* Masjid wallet
-* Notification system
-* Automatic program closure
-
-### Technology
+**A web-based Zakat, Infaq, and Shodaqoh crowdfunding platform focused on transparency and accountability.**
 
 `Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS`
 
+**Mission capabilities**
+
+- 💰 Online ZIS donations
+- 🧮 Zakat calculator
+- 📋 Program management
+- 💳 Payment gateway
+- 🧾 Donation history
+- 🕌 Fund distribution
+- 📊 Transparent financial reporting
+- 👛 Program Wallet & Masjid Wallet
+- 🔔 Notification system
+- 🎯 Automatic program closure
+
 ---
 
-## 🏸 Sport Center Reservation
+## 🏸 Mission 02 — Sport Center Reservation
 
-**A full-stack reservation platform designed to simplify sports facility booking and payment management.**
-
-### Key Features
-
-* User authentication
-* Sports facility management
-* Online booking
-* Booking schedules
-* Payment gateway
-* DP payment
-* Transaction management
-* Reservation history
-* Admin dashboard
-
-### Technology
+**A full-stack reservation platform for sports facility booking and payment management.**
 
 `Next.js` · `React` · `Laravel` · `MySQL` · `Midtrans`
 
+**Mission capabilities**
+
+- 🔐 Authentication
+- 🏟️ Facility management
+- 📅 Online booking
+- 🕐 Schedule management
+- 💳 Payment gateway
+- 💵 DP payment
+- 💼 Transaction management
+- 🧾 Reservation history
+- 📈 Admin dashboard
+
 ---
 
-## 🌱 Smart IoT Automation
+## 🌱 Mission 03 — Smart IoT Automation
 
-**An IoT-based system connecting sensors, ESP32, cloud services, and applications for monitoring and automation.**
-
-### Key Features
-
-* Sensor monitoring
-* Automated control
-* ESP32 integration
-* Real-time data
-* Cloud connectivity
-* Remote monitoring
-
-### Technology
+**An IoT system connecting sensors, ESP32, cloud services, and applications for monitoring and automation.**
 
 `ESP32` · `Arduino` · `Firebase` · `Sensors`
+
+**Mission capabilities**
+
+- 📡 Sensor monitoring
+- ⚙️ Automated control
+- 🔌 ESP32 integration
+- ⚡ Real-time data
+- ☁️ Cloud connectivity
+- 📱 Remote monitoring
 
 ---
 
@@ -222,69 +193,97 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <div align="center">
 
-### A constellation of technologies, projects, and things I'm building.
-
-<img src="./assets/developer-galaxy.svg" width="100%" alt="Developer Galaxy" />
+<img src="./assets/developer-galaxy.svg" width="100%" alt="Animated Developer Galaxy" />
 
 <br>
 
-`Next.js` · `React` · `TypeScript` · `Laravel` · `Flutter` · `MySQL` · `Docker` · `Firebase` · `ESP32`
-
-<br><br>
-
-> **Every project is a star. Every technology is a connection.**
+`Every project is a star.`  
+`Every technology is a connection.`  
+`Every iteration moves the system forward.`
 
 </div>
 
 ### ⭐ Galaxy Map
 
-| ⭐ Star | 🛠️ Project / Technology | 🌐 Role |
+| ⭐ Node | Project / Technology | Core Stack |
 |---|---|---|
-| 🕌 | **ZIS Crowdfunding Platform** | Laravel · MySQL · Midtrans |
-| 🏸 | **Sport Center Reservation** | Next.js · Laravel · MySQL |
-| 🌱 | **Smart IoT Automation** | ESP32 · Arduino · Firebase |
-| ⚡ | **Next.js / React** | Frontend Development |
-| ⚙️ | **Laravel / Node.js** | Backend Engineering |
-| 📱 | **Flutter / Android** | Mobile Development |
-| ☁️ | **Docker / Cloud** | Deployment & Infrastructure |
+| 🕌 **ZIS Crowdfunding** | Donation & transparency platform | Laravel · MySQL · Midtrans |
+| 🏸 **Sport Center** | Reservation & payment platform | Next.js · Laravel · MySQL |
+| 🌱 **Smart IoT** | Monitoring & automation | ESP32 · Firebase |
+| ⚡ **Frontend** | Interface engineering | Next.js · React · TypeScript |
+| ⚙️ **Backend** | API & system engineering | Laravel · Node.js · NestJS |
+| 📱 **Mobile** | Cross-platform applications | Flutter · Java |
+| ☁️ **Cloud / DevOps** | Deployment & infrastructure | Docker · GitHub |
 
 ---
 
-# 🧩 Development Workflow
+# 📡 System Architecture Mindset
 
 <div align="center">
 
 ```text
-        ┌──────────────┐
-        │     IDEA     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   ANALYSIS   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DESIGN    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     BUILD    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     TEST     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DEPLOY    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   IMPROVE    │
-        └──────────────┘
+                         ┌───────────────┐
+                         │     USERS     │
+                         └───────┬───────┘
+                                 │
+                 ┌───────────────┼───────────────┐
+                 ▼               ▼               ▼
+          ┌────────────┐  ┌────────────┐  ┌────────────┐
+          │    WEB     │  │   MOBILE   │  │     IoT    │
+          │ Next / React│  │  Flutter   │  │ ESP32      │
+          └─────┬──────┘  └─────┬──────┘  └─────┬──────┘
+                │                │                │
+                └────────────────┼────────────────┘
+                                 ▼
+                         ┌───────────────┐
+                         │   API LAYER   │
+                         │ Laravel / Node│
+                         └───────┬───────┘
+                                 │
+                 ┌───────────────┼───────────────┐
+                 ▼               ▼               ▼
+          ┌────────────┐  ┌────────────┐  ┌────────────┐
+          │   MySQL    │  │  Firebase  │  │  Payment   │
+          │  Database  │  │   Cloud    │  │  Gateway   │
+          └────────────┘  └────────────┘  └────────────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    DOCKER     │
+                         │   DEPLOYMENT  │
+                         └───────────────┘
 ```
 
 </div>
+
+---
+
+# 🧪 Engineering Workflow
+
+<div align="center">
+
+```text
+IDEA
+  ↓
+ANALYZE
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+DEPLOY
+  ↓
+MONITOR
+  ↓
+IMPROVE
+  ↺
+```
+
+</div>
+
+> **Build → measure → learn → improve.**
 
 ---
 
@@ -292,67 +291,43 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <div align="center">
 
-`System Design`
-
-`Backend Architecture`
-
-`Cloud Computing`
-
-`Docker`
-
-`CI/CD`
-
-`Flutter`
-
-`Software Testing`
+| Area | Focus |
+|---|---|
+| 🧠 **System Design** | Scalable application architecture |
+| ⚙️ **Backend Architecture** | API design & maintainability |
+| ☁️ **Cloud Computing** | Infrastructure & deployment |
+| 🐳 **Docker** | Containerization |
+| 🔄 **CI/CD** | Automated testing & deployment |
+| 📱 **Flutter** | Cross-platform application development |
+| 🧪 **Software Testing** | Functional & quality assurance |
 
 </div>
 
 ---
 
-# 💡 Development Principles
+# 📊 Developer Signals
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
+<img src="https://github-readme-stats.vercel.app/api?username=maingga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" width="49%" alt="GitHub statistics" />
 
-### Simple
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maingga&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="41%" alt="Top languages" />
 
-Prefer simple solutions over unnecessary complexity.
+<br><br>
 
-</td>
-<td align="center" width="20%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maingga&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub streak" />
 
-### Useful
+</div>
 
-Build software that solves real problems.
+---
 
-</td>
-<td align="center" width="20%">
+# 💡 Engineering Principles
 
-### Clean
+<div align="center">
 
-Write readable and maintainable code.
-
-</td>
-<td align="center" width="20%">
-
-### Consistent
-
-Follow predictable patterns and conventions.
-
-</td>
-<td align="center" width="20%">
-
-### Improve
-
-Learn from every project and iteration.
-
-</td>
-</tr>
-</table>
+| SIMPLE | USEFUL | CLEAN | CONSISTENT | IMPROVE |
+|:---:|:---:|:---:|:---:|:---:|
+| Avoid unnecessary complexity | Solve real problems | Maintain readable code | Follow clear patterns | Learn from every iteration |
 
 </div>
 
@@ -362,24 +337,20 @@ Learn from every project and iteration.
 
 <div align="center">
 
-I'm always open to **interesting projects, collaboration, technology discussions, and new opportunities.**
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/maingga"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great.;Stay+curious.+Keep+building." alt="Footer Typing Animation" />
-
-</div>
+### Have an idea, project, or technology to discuss?
 
 <br>
 
-<div align="center">
+<a href="https://github.com/maingga"><img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:1F6FEB" width="100%" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Stay+curious.;Keep+building.;Ship+useful+things.;Make+the+next+version+better." alt="Footer typing animation" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F6FEB,50:161B22,100:03060A" width="100%" />
 
 </div>
