@@ -9,7 +9,7 @@
 <img
 src="./assets/developer-header.svg"
 width="100%"
-alt="Ahmad Nana Maingga — Futuristic Developer Header"
+alt="Ahmad Nana Maingga futuristic developer header"
 />
 
 <br>
@@ -22,8 +22,6 @@ alt="Developer terminal typing animation"
 
 <br><br>
 
-<!-- IDENTITY VISUAL -->
-
 <img
 src="./assets/identity-network.svg"
 width="90%"
@@ -34,45 +32,34 @@ alt="Developer identity network visualization"
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- SOCIAL LINKS -->
+<!-- PROFILE TELEMETRY -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/maingga">
-  <img
-    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="GitHub"
-  />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-    alt="LinkedIn"
-  />
-</a>
-&nbsp;
-<a href="mailto:ahmad.nanamaingga12@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
-    alt="Email"
-  />
-</a>
+<table>
+<tr>
+<td align="center">
+
+<sub>◉   LIVE PROFILE TELEMETRY</sub>
 
 <br><br>
 
-<!-- PROFILE VIEWS -->
-
 <img
-src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"
-alt="Profile views"
+src="https://komarev.com/ghpvc/?username=maingga&label=TOTAL%20VISITORS&color=58A6FF&style=for-the-badge"
+alt="Total profile visitors"
 />
 
 <br><br>
 
-<!-- STATUS -->
+<sub>REAL-TIME PROFILE ACTIVITY</sub>
 
-<code>OPEN TO LEARNING · BUILDING · COLLABORATING</code>
+</td>
+</tr>
+</table>
+
+<br>
+
+<code>● ONLINE · BUILDING · LEARNING · EVOLVING</code>
 
 </div>
 
@@ -388,8 +375,6 @@ alt="GitHub activity graph"
 
 </div>
 
-> The primary dashboard is repository-local, helping keep the profile reliable even when external GitHub statistics services are unavailable.
-
 ---
 
 # 09 · 💡 Development Principles
@@ -414,6 +399,14 @@ alt="GitHub activity graph"
 
 <div align="center">
 
+<img
+src="./assets/identity-network.svg"
+width="78%"
+alt="Developer connection network"
+/>
+
+<br><br>
+
 ### Let's build something meaningful.
 
 <br>
@@ -424,20 +417,24 @@ alt="GitHub activity graph"
     alt="GitHub"
   />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
     alt="LinkedIn"
   />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:ahmad.nanamaingga12@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
     alt="Email"
   />
 </a>
+
+<br><br>
+
+<sub>Available for collaboration, learning, and interesting projects.</sub>
 
 <br><br>
 
