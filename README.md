@@ -6,33 +6,73 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/developer-header.svg" width="100%" alt="Ahmad Nana Maingga futuristic developer header" />
+<img
+src="./assets/developer-header.svg"
+width="100%"
+alt="Ahmad Nana Maingga — Futuristic Developer Header"
+/>
 
 <br>
 
-<img src="./assets/developer-typing.svg" width="88%" alt="Developer terminal typing animation" />
+<img
+src="./assets/developer-typing.svg"
+width="86%"
+alt="Developer terminal typing animation"
+/>
 
 <br><br>
 
-<img src="./assets/identity-network.svg" width="94%" alt="Developer identity and social network" />
+<!-- IDENTITY VISUAL -->
+
+<img
+src="./assets/identity-network.svg"
+width="90%"
+alt="Developer identity network visualization"
+/>
 
 <br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- SOCIAL LINKS -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/maingga">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;
 <a href="mailto:ahmad.nanamaingga12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views" />
+<!-- PROFILE VIEWS -->
+
+<img
+src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"
+alt="Profile views"
+/>
+
+<br><br>
+
+<!-- STATUS -->
+
+<code>OPEN TO LEARNING · BUILDING · COLLABORATING</code>
 
 </div>
 
@@ -121,7 +161,7 @@ Connecting microcontrollers, sensors, cloud services, and applications for monit
 
 <br>
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+<code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code>
 
 <br><br>
 
@@ -131,7 +171,7 @@ Connecting microcontrollers, sensors, cloud services, and applications for monit
 
 <br>
 
-`Laravel` · `PHP` · `Node.js` · `NestJS`
+<code>Laravel</code> · <code>PHP</code> · <code>Node.js</code> · <code>NestJS</code>
 
 <br><br>
 
@@ -141,7 +181,7 @@ Connecting microcontrollers, sensors, cloud services, and applications for monit
 
 <br>
 
-`Flutter` · `Java` · `Android` · `Arduino` · `ESP32`
+<code>Flutter</code> · <code>Java</code> · <code>Android</code> · <code>Arduino</code> · <code>ESP32</code>
 
 <br><br>
 
@@ -151,7 +191,7 @@ Connecting microcontrollers, sensors, cloud services, and applications for monit
 
 <br>
 
-`MySQL` · `Firebase` · `Docker` · `Git` · `GitHub`
+<code>MySQL</code> · <code>Firebase</code> · <code>Docker</code> · <code>Git</code> · <code>GitHub</code>
 
 <br><br>
 
@@ -161,7 +201,7 @@ Connecting microcontrollers, sensors, cloud services, and applications for monit
 
 <br>
 
-`Postman` · `Figma` · `VS Code`
+<code>Postman</code> · <code>Figma</code> · <code>VS Code</code>
 
 </div>
 
@@ -269,8 +309,6 @@ Connecting microcontrollers, sensors, cloud services, and applications for monit
 
 </div>
 
-> **Frontend, backend, data, cloud, payment, and connected devices working together as one system.**
-
 ---
 
 # 06 · 🔄 Engineering Workflow
@@ -296,13 +334,9 @@ IMPROVE
   ↺
 ```
 
-<br>
-
 **Build → Test → Deploy → Learn → Improve**
 
 </div>
-
-I approach development as an iterative process — understanding the problem first, designing a practical solution, building it incrementally, testing the result, and continuously improving the system.
 
 ---
 
@@ -334,19 +368,27 @@ I approach development as an iterative process — understanding the problem fir
 
 <div align="center">
 
-<img src="./assets/developer-activity.svg" width="100%" alt="Developer activity dashboard" />
+<img
+src="./assets/developer-activity.svg"
+width="100%"
+alt="Developer activity dashboard"
+/>
 
 <br><br>
 
 <a href="https://github.com/maingga">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maingga&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=maingga&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true"
+width="96%"
+alt="GitHub activity graph"
+/>
 
 </a>
 
 </div>
 
-> The main activity dashboard is repository-local, helping keep the profile reliable even when external GitHub statistics services are unavailable.
+> The primary dashboard is repository-local, helping keep the profile reliable even when external GitHub statistics services are unavailable.
 
 ---
 
@@ -358,11 +400,7 @@ I approach development as an iterative process — understanding the problem fir
 | :--------------------------: | :-----------------: | :---------------------: | :-------------------------: | :------------------------: |
 | Avoid unnecessary complexity | Solve real problems | Write maintainable code | Follow predictable patterns | Learn from every iteration |
 
-</div>
-
 <br>
-
-<div align="center">
 
 > **Good software is not only about making things work.**
 >
@@ -376,28 +414,41 @@ I approach development as an iterative process — understanding the problem fir
 
 <div align="center">
 
-I'm always open to connecting, discussing technology, collaborating on projects, and learning from other developers.
+### Let's build something meaningful.
 
 <br>
 
 <a href="https://github.com/maingga">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;
 <a href="mailto:ahmad.nanamaingga12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
 </a>
 
 <br><br>
 
-<img src="./assets/developer-footer.svg" width="100%" alt="Futuristic developer footer" />
+<img
+src="./assets/developer-footer.svg"
+width="100%"
+alt="Futuristic developer footer"
+/>
 
 <br>
 
-**© Ahmad Nana Maingga · Building the future, one commit at a time.**
+<sub>© Ahmad Nana Maingga · Building the future, one commit at a time.</sub>
 
 </div>
