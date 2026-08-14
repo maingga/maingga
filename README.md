@@ -1,56 +1,84 @@
+Siap. Berikut **full `README.md`** versi yang lebih sesuai maksudmu: **modern + colorful + anime cyberpunk + neon + glitch + animated SVG/GIF + RPG/HUD**, tetapi tetap profesional.
+
+Catatan: GitHub README tidak bisa menjalankan CSS/JS custom, jadi efek animasi menggunakan layanan SVG/GIF eksternal yang memang umum dipakai di GitHub README.
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,35:0B1026,65:111A3A,100:2563EB&text=AHMAD%20NANA%20MAINGGA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20MOBILE%20DEVELOPER%20%E2%80%A2%20IoT%20ENTHUSIAST&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    ANIME CYBERPUNK HEADER                   -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0B1026,50:16103A,75:24104A,100:00D9FF&text=AHMAD%20NANA%20MAINGGA&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20MOBILE%20DEVELOPER%20%E2%80%A2%20IoT%20ENTHUSIAST&descAlignY=58&descSize=15&animation=fadeIn&stroke=00D9FF&strokeWidth=1"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Initializing+Developer+Profile...;Building+Modern+Web+Applications;Creating+Mobile+Experiences;Engineering+Backend+Systems;Exploring+Cloud+%26+IoT;Turning+Ideas+Into+Digital+Products;System+Status%3A+ONLINE+%E2%9A%A1" alt="Typing Animation" />
+<!-- ANIMATED TYPING -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+SYSTEM+INITIALIZED...;%F0%9F%8C%8C+WELCOME+TO+MY+DIGITAL+WORLD;%F0%9F%92%BB+BUILDING+MODERN+WEB+APPLICATIONS;%F0%9F%93%B1+CREATING+MOBILE+EXPERIENCES;%E2%9A%99%EF%B8%8F+ENGINEERING+BACKEND+SYSTEMS;%F0%9F%94%8C+EXPLORING+IoT+%26+ESP32;%F0%9F%9A%80+TURNING+IDEAS+INTO+DIGITAL+PRODUCTS" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING...-7C3AED?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-2563EB?style=for-the-badge&labelColor=0D1117" />
+<!-- STATUS BADGES -->
+
+<img src="https://img.shields.io/badge/%E2%9A%A1%20STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=080B18&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE%20CLASS-FULL--STACK-9D4EDD?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8C%20MODE-BUILDING-FF2DAA?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%A9-INDONESIA-00B4D8?style=for-the-badge&labelColor=080B18"/>
 
 <br><br>
 
 <a href="https://github.com/maingga">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FF2DAA"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM INITIALIZED
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                         SYSTEM                              -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🌌 SYSTEM // PROFILE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Connecting+to+developer+network...;Loading+profile...;Connection+established+%E2%9C%93"/>
+
+</div>
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                  DEVELOPER PROFILE // 01                    ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME       : Ahmad Nana Maingga                             ║
-║  ROLE       : Full-Stack Developer                           ║
-║  SPECIALTY  : Web • Mobile • Backend • IoT                   ║
-║  MODE       : BUILDING                                       ║
-║  STATUS     : ONLINE                                         ║
-║                                                              ║
-║  MAIN QUEST : Build useful digital products                  ║
-║  SIDE QUEST : Explore new technologies                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                    DEVELOPER PROFILE                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  👤 NAME        : Ahmad Nana Maingga                         │
+│  🎮 CLASS       : Full-Stack Developer                       │
+│  ⚡ SPECIALTY   : Web • Mobile • Backend • IoT               │
+│  🌐 LOCATION    : Indonesia                                  │
+│  🟢 STATUS      : ONLINE                                     │
+│                                                              │
+│  ⚔ MAIN QUEST  : Build useful digital products              │
+│  🌱 SIDE QUEST  : Learn new technologies                     │
+│  🚀 OBJECTIVE   : Turn ideas into reality                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 > **"Build useful software. Keep the code clean. Keep learning."**
@@ -59,179 +87,264 @@ I'm an **Informatics Engineering student** passionate about software development
 
 I enjoy working across the stack — from designing interfaces and building APIs to managing databases, integrating payment systems, deploying applications, and experimenting with IoT.
 
-My main interests include:
-
-**Full-Stack Web Development • Mobile Development • Backend Engineering • Cloud Computing • IoT**
-
----
-
-# 🎮 DEVELOPER CHARACTER
+My main interests are:
 
 <div align="center">
 
-|         ATTRIBUTE        |         STATUS         |
-| :----------------------: | :--------------------: |
-|    🌐 Web Development    | `██████████████████░░` |
-|  ⚙️ Backend Engineering  | `████████████████░░░░` |
-|   📱 Mobile Development  | `███████████████░░░░░` |
-| 🗄️ Database Engineering | `███████████████░░░░░` |
-|     ☁️ Cloud & DevOps    | `████████████░░░░░░░░` |
-|    🔌 IoT Development    | `████████████░░░░░░░░` |
-|    🧪 Software Testing   | `███████████░░░░░░░░░` |
+`🌐 Full-Stack Web`　`⚙️ Backend`　`📱 Mobile`　`☁️ Cloud`　`🔌 IoT`
 
 </div>
 
 ---
 
-# 🧬 CURRENT STATUS
+# ✨ ABOUT ME // CHARACTER PROFILE
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👨‍💻 Developer
 
 ```text
-╭──────────────────────────────────────────────────────╮
-│                  CURRENT MISSION                     │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  🔭 Building       → Full-Stack Web Applications     │
-│  🌱 Learning       → Backend Architecture            │
-│  ☁️ Exploring      → Cloud & DevOps                  │
-│  📱 Developing     → Cross-Platform Applications     │
-│  🔌 Experimenting  → ESP32 & IoT                    │
-│  🧪 Improving      → Software Testing                │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+NAME
+Ahmad Nana Maingga
+
+ROLE
+Full-Stack Developer
+
+FOCUS
+Web Development
+Backend Engineering
+Mobile Development
+IoT Systems
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Character Status
+
+```text
+HP   ████████████████████ 100%
+
+EXP  ███████████████░░░░░  75%
+
+CODE ██████████████████░░  90%
+
+LEARN ███████████████████  95%
+```
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ CURRENT MISSION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+QUEST+ACCEPTED;%F0%9F%9A%80+BUILDING+THE+NEXT+PROJECT;%F0%9F%8C%B1+LEARNING+NEW+TECHNOLOGIES;%F0%9F%94%8C+EXPLORING+IoT;%E2%9C%A8+LEVELING+UP" />
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔭 BUILDING
+
+* Full-stack web applications
+* REST APIs
+* Authentication systems
+* Payment integrations
+* Admin dashboards
+
+</td>
+
+<td width="50%">
+
+### 🌱 EXPLORING
+
+* System Design
+* Backend Architecture
+* Cloud Computing
+* Docker
+* CI/CD
+* Software Testing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📱 DEVELOPING
+
+* Cross-platform mobile applications
+* Flutter applications
+* Firebase integrations
+* Mobile API integration
+
+</td>
+
+<td width="50%">
+
+### 🔌 EXPERIMENTING
+
+* ESP32
+* Arduino
+* Sensors
+* Real-time monitoring
+* IoT automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧬 SKILL TREE // TECH ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,laravel,php,nodejs,nestjs,flutter,java,mysql,firebase,docker,git,github,arduino,postman,figma,vscode&perline=10" />
+
+</div>
+
+<br>
+
+```text
+                         🌌 DEVELOPER CORE
+                                │
+               ┌────────────────┼────────────────┐
+               │                │                │
+               ▼                ▼                ▼
+          🌐 WEB             ⚙️ BACKEND       📱 MOBILE
+               │                │                │
+        ┌──────┼──────┐    ┌────┼────┐       ┌───┴───┐
+        │      │      │    │    │    │       │       │
+      Next   React  TS   Laravel Node MySQL Flutter  Java
+        │      │      │    │    │    │       │       │
+        └──────┴──────┘    └────┴────┘       └───┬───┘
+               │                │                │
+               └────────────────┼────────────────┘
+                                │
+                         🚀 FULL STACK
+                                │
+                    ┌───────────┴───────────┐
+                    │                       │
+                    ▼                       ▼
+                 ☁️ CLOUD                 🔌 IoT
+                    │                       │
+                 Docker                  ESP32
+                    │                       │
+                  CI/CD                  Arduino
+                                            │
+                                         Sensors
 ```
 
 ---
 
-# ⚔️ MY DEVELOPMENT ARSENAL
+# 🎨 FRONTEND // VISUAL ENGINE
 
 <div align="center">
-
-## 🌐 WEB DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
 
-<br>
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
 <br><br>
 
-## ⚙️ BACKEND ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" />
-
-<br>
-
-`Laravel` `PHP` `Node.js` `NestJS`
-
-<br><br>
-
-## 📱 MOBILE DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio" />
-
-<br>
-
-`Flutter` `Java` `Android`
-
-<br><br>
-
-## 🔌 IoT & EMBEDDED
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,firebase" />
-
-<br>
-
-`ESP32` `Arduino` `Firebase` `Sensors`
-
-<br><br>
-
-## 🗄️ DATABASE & DEVOPS
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" />
-
-<br>
-
-`MySQL` `Firebase` `Docker` `Git` `GitHub`
-
-<br><br>
-
-## 🛠️ DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode" />
-
-<br>
-
-`Postman` `Figma` `VS Code`
+<img src="https://img.shields.io/badge/Next.js-EXPERT%20PATH-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/React-ACTIVE-61DAFB?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/TypeScript-ACTIVE-3178C6?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-ACTIVE-06B6D4?style=for-the-badge&labelColor=080B18"/>
 
 </div>
 
 ---
 
-# 🌌 TECH SKILL TREE
+# ⚙️ BACKEND // CORE ENGINE
 
-```text
-                         ┌─────────────────┐
-                         │   SOFTWARE DEV  │
-                         └────────┬────────┘
-                                  │
-                ┌─────────────────┼─────────────────┐
-                │                 │                 │
-                ▼                 ▼                 ▼
-          ┌───────────┐     ┌───────────┐    ┌───────────┐
-          │    WEB    │     │  BACKEND  │    │   MOBILE  │
-          └─────┬─────┘     └─────┬─────┘    └─────┬─────┘
-                │                 │                 │
-          ┌─────┴─────┐     ┌─────┴─────┐     ┌────┴────┐
-          │           │     │           │     │         │
-       Next.js      React Laravel     Node  Flutter   Java
-          │           │     │           │     │         │
-          └─────┬─────┘     └─────┬─────┘     └────┬────┘
-                │                 │                 │
-                └─────────────────┼─────────────────┘
-                                  │
-                         ┌────────▼────────┐
-                         │   FULL STACK    │
-                         └────────┬────────┘
-                                  │
-                    ┌─────────────┴─────────────┐
-                    │                           │
-                    ▼                           ▼
-              ┌───────────┐               ┌───────────┐
-              │   CLOUD   │               │    IoT    │
-              └─────┬─────┘               └─────┬─────┘
-                    │                           │
-                 Docker                       ESP32
-                    │                           │
-                 CI / CD                    Sensors
-                    │                           │
-                    └─────────────┬─────────────┘
-                                  │
-                         🚀 DIGITAL PRODUCT
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Laravel-CORE-FF2D20?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/PHP-ACTIVE-777BB4?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/Node.js-EXPLORING-339933?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/NestJS-EXPLORING-E0234E?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/MySQL-ACTIVE-4479A1?style=for-the-badge&labelColor=080B18"/>
+
+</div>
 
 ---
 
-# 🚀 FEATURED QUESTS
+# 📱 MOBILE // SECONDARY CLASS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,firebase" />
+
+<br><br>
+
+`Flutter`　`Java`　`Android`　`Firebase`
+
+</div>
+
+---
+
+# 🔌 IoT // CYBER SYSTEM
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,firebase" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ESP32-IOT-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/Arduino-EMBEDDED-00979D?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/Firebase-CLOUD-FFCA28?style=for-the-badge&labelColor=080B18"/>
+
+</div>
+
+---
+
+# 🚀 QUEST LOG // FEATURED PROJECTS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=FF2DAA&center=true&vCenter=true&width=650&lines=QUEST+LOG+INITIALIZED...;%E2%9A%94%EF%B8%8F+SELECT+A+MISSION;%F0%9F%8C%8C+EXPLORE+MY+PROJECTS" />
+
+</div>
+
+---
 
 ## 🕌 QUEST 01 — ZIS CROWDFUNDING PLATFORM
 
-> **Mission:** Build a transparent digital platform for Zakat, Infaq, and Shodaqoh donations.
+<div align="center">
 
-```text
-╭────────────────────────────────────────────────────────╮
-│ QUEST 01                                                │
-│                                                        │
-│ 🕌 ZIS CROWDFUNDING PLATFORM                           │
-│                                                        │
-│ TYPE       : Full-Stack Web Application                │
-│ OBJECTIVE  : Transparency & Accountability             │
-│ STATUS     : ████████████████████ COMPLETED            │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
+<img src="https://img.shields.io/badge/QUEST-01-FF2DAA?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/TYPE-FULL--STACK-9D4EDD?style=for-the-badge&labelColor=080B18"/>
 
-### ⚡ Core Features
+</div>
+
+> 🕌 A web-based crowdfunding platform for **Zakat, Infaq, and Shodaqoh** focused on transparency and accountability.
+
+### ⚡ FEATURES
 
 * 💰 Online ZIS donations
 * 🧮 Zakat calculator
@@ -245,30 +358,29 @@ My main interests include:
 * 🔔 Notification system
 * 🔒 Automatic program closure
 
-### 🛠️ Technology
+### 🛠️ TECHNOLOGY
 
-`Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS`
+<div align="center">
+
+`Laravel` `MySQL` `Tailwind CSS` `Midtrans` `QRIS`
+
+</div>
 
 ---
 
 ## 🏸 QUEST 02 — SPORT CENTER RESERVATION
 
-> **Mission:** Create a complete digital reservation system for sports facilities.
+<div align="center">
 
-```text
-╭────────────────────────────────────────────────────────╮
-│ QUEST 02                                                │
-│                                                        │
-│ 🏸 SPORT CENTER RESERVATION                            │
-│                                                        │
-│ TYPE       : Full-Stack Reservation System             │
-│ OBJECTIVE  : Booking & Payment Automation              │
-│ STATUS     : ███████████████████░░ IN PROGRESS         │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
+<img src="https://img.shields.io/badge/QUEST-02-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-9D4EDD?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/TYPE-RESERVATION-FF2DAA?style=for-the-badge&labelColor=080B18"/>
 
-### ⚡ Core Features
+</div>
+
+> 🏸 A full-stack reservation platform designed to simplify sports facility booking and payment management.
+
+### ⚡ FEATURES
 
 * 🔐 User authentication
 * 🏟️ Sports facility management
@@ -280,30 +392,29 @@ My main interests include:
 * 📜 Reservation history
 * 📊 Admin dashboard
 
-### 🛠️ Technology
+### 🛠️ TECHNOLOGY
 
-`Next.js` · `React` · `Laravel` · `MySQL` · `Midtrans`
+<div align="center">
+
+`Next.js` `React` `Laravel` `MySQL` `Midtrans`
+
+</div>
 
 ---
 
 ## 🌱 QUEST 03 — SMART IoT AUTOMATION
 
-> **Mission:** Connect physical devices with cloud services and applications.
+<div align="center">
 
-```text
-╭────────────────────────────────────────────────────────╮
-│ QUEST 03                                                │
-│                                                        │
-│ 🌱 SMART IoT AUTOMATION                                │
-│                                                        │
-│ TYPE       : IoT / Automation System                    │
-│ OBJECTIVE  : Monitoring & Remote Control               │
-│ STATUS     : ███████████████░░░░░ EXPLORING            │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
+<img src="https://img.shields.io/badge/QUEST-03-7C3AED?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/STATUS-EXPLORING-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/TYPE-IOT-FF2DAA?style=for-the-badge&labelColor=080B18"/>
 
-### ⚡ Core Features
+</div>
+
+> 🌱 An IoT-based system connecting sensors, ESP32, cloud services, and applications for monitoring and automation.
+
+### ⚡ FEATURES
 
 * 📡 Sensor monitoring
 * 🤖 Automated control
@@ -312,127 +423,151 @@ My main interests include:
 * ☁️ Cloud connectivity
 * 📱 Remote monitoring
 
-### 🛠️ Technology
-
-`ESP32` · `Arduino` · `Firebase` · `Sensors`
-
----
-
-# 📊 GITHUB POWER LEVEL
+### 🛠️ TECHNOLOGY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maingga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=58A6FF" height="180" />
+`ESP32` `Arduino` `Firebase` `Sensors`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maingga&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" />
+</div>
+
+---
+
+# 📊 GITHUB // POWER LEVEL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maingga&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&icon_color=FF2DAA&text_color=E6EDF3&ring_color=9D4EDD" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maingga&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=E6EDF3" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=maingga&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=maingga&theme=dark&hide_border=true&background=080B18&ring=FF2DAA&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=9D4EDD&dates=8B949E"/>
 
 </div>
 
 ---
 
-# 📈 ACTIVITY LOG
+# 🌌 GITHUB ACTIVITY // NEURAL NETWORK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maingga&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maingga&bg_color=080B18&color=00E5FF&line=9D4EDD&point=FF2DAA&area=true&hide_border=true&custom_title=AHMAD%20NANA%20MAINGGA%20%E2%80%94%20DEVELOPMENT%20ACTIVITY" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SYSTEM
+# 🐍 CONTRIBUTION // ENERGY TRAIL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maingga/maingga/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/maingga/maingga/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🧪 DEVELOPMENT WORKFLOW
+# 🌱 LEVELING UP // CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-System%20Design-00E5FF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-Backend%20Architecture-9D4EDD?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F-Cloud%20Computing-00B4D8?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%F0%9F%90%B3-Docker-2496ED?style=for-the-badge&labelColor=080B18"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/%F0%9F%94%84-CI%2FCD-FF2DAA?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%B1-Flutter-02569B?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%AA-Software%20Testing-7C3AED?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%8C-IoT-00E5FF?style=for-the-badge&labelColor=080B18"/>
+
+</div>
+
+---
+
+# 🧪 DEVELOPMENT PIPELINE
+
+<div align="center">
 
 ```text
-                    ┌──────────────┐
-                    │   💡 IDEA    │
-                    └──────┬───────┘
+                         💡 IDEA
                            │
                            ▼
-                    ┌──────────────┐
-                    │  🔍 ANALYSIS │
-                    └──────┬───────┘
+                     🔍 ANALYSIS
                            │
                            ▼
-                    ┌──────────────┐
-                    │  🎨 DESIGN   │
-                    └──────┬───────┘
+                      🎨 DESIGN
                            │
                            ▼
-                    ┌──────────────┐
-                    │  ⚙️ BUILD    │
-                    └──────┬───────┘
+                       ⚙️ BUILD
                            │
                            ▼
-                    ┌──────────────┐
-                    │  🧪 TEST     │
-                    └──────┬───────┘
+                       🧪 TEST
                            │
                            ▼
-                    ┌──────────────┐
-                    │  🚀 DEPLOY   │
-                    └──────┬───────┘
+                      🚀 DEPLOY
                            │
                            ▼
-                    ┌──────────────┐
-                    │  🔄 IMPROVE  │
-                    └──────┬───────┘
+                     📊 MONITOR
+                           │
+                           ▼
+                      🔄 IMPROVE
                            │
                            └───────────────┐
                                            │
                                            ▼
-                                    💡 NEXT QUEST
+                                      ⚔️ NEXT QUEST
 ```
-
----
-
-# 🌱 CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Backend%20Architecture-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter" />
-<img src="https://img.shields.io/badge/Software%20Testing-0D1117?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🎯 DEVELOPMENT PHILOSOPHY
+# 🏆 ACHIEVEMENT SYSTEM
+
+<div align="center">
+
+| 🏅 ACHIEVEMENT                 |    STATUS   |
+| :----------------------------- | :---------: |
+| 🌐 Full-Stack Development      | 🟦 UNLOCKED |
+| ⚙️ REST API Development        | 🟦 UNLOCKED |
+| 🗄️ Database Engineering       | 🟦 UNLOCKED |
+| 💳 Payment Gateway Integration | 🟦 UNLOCKED |
+| 📱 Mobile Development          | 🟦 UNLOCKED |
+| 🔌 IoT / ESP32                 | 🟦 UNLOCKED |
+| ☁️ Cloud Computing             |  🟪 ACTIVE  |
+| 🐳 Docker                      |  🟪 ACTIVE  |
+| 🔄 CI/CD                       |  🟪 ACTIVE  |
+| 🧪 Software Testing            |  🟪 ACTIVE  |
+| 🏗️ System Design              |  🟪 ACTIVE  |
+
+</div>
+
+---
+
+# 💫 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="20%">
 
-## 🧩 SIMPLE
+### 🧩 SIMPLE
 
-Prefer simple solutions over unnecessary complexity.
+Simple solutions beat unnecessary complexity.
 
 </td>
 
 <td align="center" width="20%">
 
-## ⚡ USEFUL
+### ⚡ USEFUL
 
 Build software that solves real problems.
 
@@ -440,106 +575,102 @@ Build software that solves real problems.
 
 <td align="center" width="20%">
 
-## 🧹 CLEAN
+### 🧹 CLEAN
 
-Write readable and maintainable code.
-
-</td>
-
-<td align="center" width="20%">
-
-## 🔄 CONSISTENT
-
-Follow predictable patterns and conventions.
+Readable code is easier to maintain.
 
 </td>
 
 <td align="center" width="20%">
 
-## 🚀 IMPROVE
+### 🔄 CONSISTENT
 
-Learn from every project and iteration.
+Predictable patterns create better systems.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀 IMPROVE
+
+Every project is another level.
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENT LOG
-
-```text
-╭────────────────────────────────────────────────────────╮
-│                  ACHIEVEMENT SYSTEM                    │
-├────────────────────────────────────────────────────────┤
-│                                                        │
-│  🟦 [UNLOCKED] Full-Stack Development                  │
-│  🟦 [UNLOCKED] REST API Development                    │
-│  🟦 [UNLOCKED] Database Engineering                    │
-│  🟦 [UNLOCKED] Payment Gateway Integration             │
-│  🟦 [UNLOCKED] Mobile Application Development          │
-│  🟦 [UNLOCKED] IoT / ESP32 Development                 │
-│  🟪 [ACTIVE]    Cloud Computing                        │
-│  🟪 [ACTIVE]    System Design                          │
-│  🟪 [ACTIVE]    CI/CD                                  │
-│  🟪 [ACTIVE]    Software Testing                       │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
-
----
-
-# 🌐 CONNECT WITH ME
+# 🎴 DEVELOPER QUOTE
 
 <div align="center">
 
-### Wanna build something interesting?
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FF2DAA&center=true&vCenter=true&width=750&lines=%22Code+is+not+just+about+making+things+work.%22;%22It's+about+building+something+worth+using.%22;%22Keep+learning.+Keep+building.+Keep+leveling+up.%22"/>
+
+</div>
+
+---
+
+# 🤝 CONNECT // JOIN THE QUEST
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=%E2%9A%A1+NEW+CONNECTION+DETECTED;%F0%9F%8C%8C+READY+FOR+THE+NEXT+QUEST;%F0%9F%A4%9D+LET'S+BUILD+SOMETHING+GREAT" />
+
+<br><br>
 
 I'm always open to **interesting projects, collaboration, technology discussions, and new opportunities.**
 
-<br>
+<br><br>
 
 <a href="https://github.com/maingga">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%9A%A1%20GITHUB-FOLLOW-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B18"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-CONNECT-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B18"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com">
-<img src="https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%92%8C%20EMAIL-CONTACT-FF2DAA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B18"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Keep+building.;Keep+learning.;Keep+exploring.;See+you+in+the+next+quest+%E2%9A%94%EF%B8%8F" />
+<img src="https://komarev.com/ghpvc/?username=maingga&label=VISITORS&color=FF2DAA&style=for-the-badge"/>
 
 </div>
 
-<br>
+---
+
+# 🌸 END OF TRANSMISSION
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B8+Thanks+for+visiting+my+profile!;%E2%9A%A1+Stay+curious.;%F0%9F%92%BB+Keep+building.;%F0%9F%8C%8C+Keep+exploring.;%E2%9A%94%EF%B8%8F+See+you+in+the+next+quest..." />
+
+<br><br>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║             SYSTEM MESSAGE // END OF PROFILE                ║
+║                    SYSTEM MESSAGE                            ║
 ║                                                              ║
-║       "The best developers never stop leveling up."         ║
+║             CONNECTION STATUS : STABLE                      ║
+║             DEVELOPER STATUS  : ONLINE                      ║
+║             NEXT QUEST        : LOADING...                  ║
 ║                                                              ║
-║                     ⚡ NEXT QUEST LOADING...                 ║
+║                    ⚡ LEVEL UP ⚡                             ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,35:0B1026,65:111A3A,100:2563EB" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050816,25:0B1026,50:24104A,75:7C3AED,100:00E5FF&animation=fadeIn" width="100%"/>
 
 </div>
