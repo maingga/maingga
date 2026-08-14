@@ -8,9 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/maingga"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/maingga"><img src="./assets/social-hub.svg" width="92%" alt="GitHub, LinkedIn and Email social hub" /></a>
 
 <br><br>
 
@@ -55,7 +53,6 @@ Building responsive and scalable web applications using modern frontend technolo
 `Next.js` · `React` · `TypeScript` · `Laravel`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📱 Mobile Development
@@ -68,7 +65,6 @@ Creating cross-platform mobile applications with clean interfaces and reliable b
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -81,7 +77,6 @@ Designing APIs, authentication systems, databases, payment integrations, and app
 `Laravel` · `Node.js` · `NestJS` · `MySQL`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔌 IoT Development
@@ -98,11 +93,11 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 🛠️ Development Arsenal
+# 🛠️ Technology Command Center
 
 <div align="center">
 
-### FRONTEND
+### FRONTEND SYSTEM
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend technologies" />
 
@@ -112,7 +107,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <br><br>
 
-### BACKEND
+### BACKEND SYSTEM
 
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" alt="Backend technologies" />
 
@@ -122,7 +117,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <br><br>
 
-### MOBILE & IoT
+### MOBILE & IoT SYSTEM
 
 <img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" alt="Mobile and IoT technologies" />
 
@@ -132,7 +127,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <br><br>
 
-### DATABASE & DEVOPS
+### DATA & INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Database and DevOps technologies" />
 
@@ -142,7 +137,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <br><br>
 
-### TOOLS
+### ENGINEERING TOOLS
 
 <img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Development tools" />
 
@@ -360,19 +355,21 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 📊 Developer Signals
+# 📊 Developer Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maingga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" width="49%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maingga&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="41%" alt="Top languages" />
+<img src="./assets/developer-activity.svg" width="100%" alt="Developer activity dashboard" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maingga&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub streak" />
+<a href="https://github.com/maingga">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maingga&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
+</a>
 
 </div>
+
+> **Note:** The custom activity dashboard above is intentionally repository-local and does not depend on the public `github-readme-stats` endpoint. The activity graph is an optional live visualization.
 
 ---
 
@@ -392,17 +389,19 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 <div align="center">
 
-I'm always open to **interesting projects, collaboration, technology discussions, and new opportunities.**
+<img src="./assets/social-hub.svg" width="92%" alt="Social connection hub" />
 
 <br><br>
 
-<a href="https://github.com/maingga"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+**Have an idea, project, or technology to discuss?**
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Stay+curious.;Keep+building.;Ship+useful+things.;Make+the+next+version+better." alt="Footer typing animation" />
+<a href="https://github.com/maingga">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:ahmad.nanamaingga12@gmail.com">Email</a>
 
 <br><br>
 
