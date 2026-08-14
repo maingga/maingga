@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" width="1000" height="430">
+<rect width="1000" height="430" rx="22" fill="#0D1117" stroke="#30363D"/>
+<rect width="1000" height="46" rx="22" fill="#161B22"/>
+<circle cx="24" cy="23" r="6" fill="#FF5F56"/><circle cx="44" cy="23" r="6" fill="#FFBD2E"/><circle cx="64" cy="23" r="6" fill="#27C93F"/>
+<text x="500" y="29" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="14">ahmad@developer:~</text>
+<g font-family="monospace" font-size="18">
+<text x="50" y="95" fill="#58A6FF">$ whoami</text>
+<text x="50" y="125" fill="#FFFFFF">Ahmad Nana Maingga</text>
+<text x="50" y="165" fill="#58A6FF">$ role</text>
+<text x="50" y="195" fill="#FFFFFF">Full-Stack Developer • Mobile Developer • IoT Enthusiast</text>
+<text x="50" y="235" fill="#58A6FF">$ stack</text>
+<text x="50" y="265" fill="#FFFFFF">Next.js / React / TypeScript / Laravel / Flutter</text>
+<text x="50" y="305" fill="#58A6FF">$ focus</text>
+<text x="50" y="335" fill="#FFFFFF">Architecture / Cloud / CI/CD / IoT / Testing</text>
+<text x="50" y="375" fill="#58A6FF">$ status</text>
+<text x="165" y="375" fill="#27C93F">● BUILDING</text>
+<text x="315" y="375" fill="#58A6FF">● LEARNING</text>
+<text x="460" y="375" fill="#FFFFFF">● IMPROVING</text>
+<rect x="590" y="360" width="12" height="22" fill="#58A6FF">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>
