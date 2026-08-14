@@ -1,183 +1,188 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-
-<!--                         HERO SECTION                          -->
-
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,40:0B1026,75:111C44,100:2563EB&text=AHMAD%20NANA%20MAINGGA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20MOBILE%20DEVELOPER%20%E2%80%A2%20IoT%20ENTHUSIAST&descAlignY=55&descSize=15&animation=twinkling"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:161B22,100:1F6FEB&text=Ahmad%20Nana%20Maingga&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20IoT%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=%3E+Building+Modern+Web+Applications;%3E+Engineering+Backend+Systems;%3E+Creating+Mobile+Experiences;%3E+Exploring+Cloud+%26+IoT;%3E+Turning+Ideas+Into+Digital+Products;%3E+Always+Learning.+Always+Building."
-alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+Mobile+Experiences;Designing+Backend+Systems;Exploring+Cloud+%26+IoT;Turning+Ideas+Into+Digital+Products" alt="Typing Animation" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
+<!-- Anime Coding Animation -->
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J3dG9vZ2F4dXJ0dW1pN2V4dG5xZ3JxY3V4bWZ2b3V5d3VxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Anime Coding Animation" />
 
 <br><br>
 
 <a href="https://github.com/maingga">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<!-- ANIME / CYBER VISUAL -->
-
-<img
-src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
-width="420"
-alt="Anime Coding Animation"
-/>
+<img src="https://komarev.com/ghpvc/?username=maingga&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-# ⚡ `$ whoami`
+# 👨‍💻 About Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   👨‍💻 Ahmad Nana Maingga                                   │
-│                                                             │
-│   Informatics Engineering Student                           │
-│   Full-Stack Developer                                      │
-│   Mobile Developer                                          │
-│   IoT Enthusiast                                            │
-│                                                             │
-│   > Building useful software                                │
-│   > Learning modern technologies                            │
-│   > Turning ideas into digital products                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<div align="center">
+I'm an **Informatics Engineering student** passionate about software development and building useful digital products.
 
-### `> SYSTEM STATUS`
+I enjoy working across the stack — from designing interfaces and building APIs to managing databases, integrating payment systems, and experimenting with IoT.
 
-|    System   |      Status     |
-| :---------: | :-------------: |
-| 🧠 Learning |     `ACTIVE`    |
-|  💻 Coding  |     `ACTIVE`    |
-| 🚀 Building |     `ACTIVE`    |
-|   ☁️ Cloud  |   `EXPLORING`   |
-|    🔌 IoT   | `EXPERIMENTING` |
-|  🧪 Testing |   `IMPROVING`   |
+My main interests include **full-stack web development, mobile applications, backend engineering, cloud computing, and IoT systems**.
 
-</div>
+> **Build useful software. Keep the code clean. Keep learning.**
+
+### Currently
+
+* 🔭 Building full-stack web applications
+* 🌱 Exploring backend architecture and cloud technologies
+* 📱 Developing cross-platform mobile applications
+* 🔌 Experimenting with ESP32 and IoT systems
+* 🧪 Improving software testing and engineering practices
+
+</td>
+
+<td width="35%" align="center">
+
+<!-- Anime Character -->
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q4N2R4Z2x5N3J1Z3Z5d3R0Y2F4Z2R6dWZ6d2V6cG9jY3Q2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQ4UQ4UQ4U/giphy.gif" width="220" alt="Anime Character Animation" />
+
+<br>
+
+<sub><b>Always learning. Always building.</b></sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎴 About Me
+# ⚡ What I Do
 
-> **"Build useful software. Keep the code clean. Keep learning."**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm an **Informatics Engineering student** focused on building modern and useful digital products.
+### 🌐 Web Development
 
-I enjoy working across the entire development lifecycle — from designing interfaces and building APIs to managing databases, integrating payment systems, deploying applications, and experimenting with IoT.
+Building responsive and scalable web applications using modern frontend technologies and robust backend systems.
 
-```typescript
-const ahmad = {
-    role: "Full-Stack Developer",
-    interests: [
-        "Web Development",
-        "Mobile Development",
-        "Backend Engineering",
-        "Cloud Computing",
-        "IoT"
-    ],
+**Focus**
 
-    currentlyBuilding: "Modern Web Applications",
+`Next.js` · `React` · `TypeScript` · `Laravel`
 
-    mindset: {
-        learn: true,
-        build: true,
-        improve: true
-    }
-};
-```
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+
+Creating cross-platform mobile applications with clean interfaces and reliable backend integration.
+
+**Focus**
+
+`Flutter` · `Java` · `Firebase`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+Designing APIs, authentication systems, databases, payment integrations, and application business logic.
+
+**Focus**
+
+`Laravel` · `Node.js` · `NestJS` · `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 IoT Development
+
+Connecting sensors, microcontrollers, cloud services, and applications to create connected systems.
+
+**Focus**
+
+`ESP32` · `Arduino` · `Firebase`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧬 Tech Arsenal
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend Technologies" />
 
 <br>
 
-`Next.js` `React` `TypeScript` `Tailwind CSS`
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
 <br><br>
 
-### ⚙️ Backend
+### Backend
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" alt="Backend Technologies" />
 
 <br>
 
-`Laravel` `PHP` `Node.js` `NestJS`
+`Laravel` · `PHP` · `Node.js` · `NestJS`
 
 <br><br>
 
-### 📱 Mobile
+### Mobile & IoT
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" alt="Mobile and IoT Technologies" />
 
 <br>
 
-`Flutter` `Dart` `Java` `Android`
+`Flutter` · `Java` · `Android` · `Arduino` · `ESP32`
 
 <br><br>
 
-### 🔌 IoT
+### Database & DevOps
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Database and DevOps Technologies" />
 
 <br>
 
-`ESP32` `Arduino` `Firebase` `Sensors`
+`MySQL` · `Firebase` · `Docker` · `Git` · `GitHub`
 
 <br><br>
 
-### 🗄️ Database & DevOps
+### Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github,linux" />
-
-<br>
-
-`MySQL` `Firebase` `Docker` `Git` `GitHub` `Linux`
-
-<br><br>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,githubactions" />
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Development Tools" />
 
 <br>
 
-`VS Code` `Postman` `Figma` `GitHub Actions`
+`Postman` · `Figma` · `VS Code`
 
 </div>
 
@@ -187,142 +192,180 @@ const ahmad = {
 
 <div align="center">
 
-## 🕌 ZIS Crowdfunding Platform
+<!-- Anime Developer Animation -->
 
-<img
-src="https://img.shields.io/badge/STATUS-ACTIVE-2563EB?style=for-the-badge"
-alt="Status"
-/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9vM3N2cHh3Z2R4d3J5c2x4dGJ5bW9pY2F6Z2R4cG9mZ3R6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4XX0m2m6pK1q/giphy.gif" width="260" alt="Anime Developer Animation" />
 
 </div>
 
-A web-based crowdfunding platform for **Zakat, Infaq, and Shodaqoh (ZIS)** focused on transparency, accountability, and digital donation management.
+## 🕌 ZIS Crowdfunding Platform
 
-### ✨ Features
+**A web-based crowdfunding platform for Zakat, Infaq, and Shodaqoh focused on transparency and accountability.**
 
-```text
-┌──────────────────────┬──────────────────────┐
-│ 💰 ZIS Donation      │ 📊 Transparency      │
-│ 🧮 Zakat Calculator  │ 💳 Midtrans / QRIS   │
-│ 📋 Program Management│ 👛 Program Wallet    │
-│ 📈 Financial Reports │ 🕌 Masjid Wallet     │
-│ 🔔 Notifications     │ 🔒 Auto Close        │
-└──────────────────────┴──────────────────────┘
-```
+### Key Features
 
-**Stack**
+* Online ZIS donations
+* Zakat calculator
+* Donation program management
+* Payment gateway integration
+* Donation history
+* Fund distribution management
+* Transparent financial reporting
+* Program wallet
+* Masjid wallet
+* Notification system
+* Automatic program closure
 
-`Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS` · `Chart.js`
+### Technology
+
+`Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS`
 
 ---
 
 ## 🏸 Sport Center Reservation
 
-<div align="center">
+**A full-stack reservation platform designed to simplify sports facility booking and payment management.**
 
-<img src="https://img.shields.io/badge/FULL--STACK-APPLICATION-58A6FF?style=for-the-badge" />
+### Key Features
 
-</div>
+* User authentication
+* Sports facility management
+* Online booking
+* Booking schedules
+* Payment gateway
+* DP payment
+* Transaction management
+* Reservation history
+* Admin dashboard
 
-A full-stack sports facility reservation platform designed to simplify **booking, scheduling, payments, and transaction management**.
+### Technology
 
-### ✨ Features
-
-* 🔐 Authentication
-* 🏸 Sports facility management
-* 📅 Online reservation
-* 🕐 Booking schedule
-* 💳 Payment gateway
-* 💰 DP payment
-* 🧾 Transaction management
-* 📜 Reservation history
-* 📊 Admin dashboard
-
-**Stack**
-
-`Next.js` · `React` · `TypeScript` · `Laravel` · `MySQL` · `Midtrans`
+`Next.js` · `React` · `Laravel` · `MySQL` · `Midtrans`
 
 ---
 
 ## 🌱 Smart IoT Automation
 
-<div align="center">
+**An IoT-based system connecting sensors, ESP32, cloud services, and applications for monitoring and automation.**
 
-<img src="https://img.shields.io/badge/IoT-EXPERIMENTAL-00A67E?style=for-the-badge" />
+### Key Features
 
-</div>
+* Sensor monitoring
+* Automated control
+* ESP32 integration
+* Real-time data
+* Cloud connectivity
+* Remote monitoring
 
-An IoT ecosystem connecting **ESP32, sensors, cloud services, and applications** for monitoring and automation.
-
-### ✨ Features
-
-```text
-Sensor
-   │
-   ▼
- ESP32
-   │
-   ▼
- Firebase
-   │
-   ├──────────► Dashboard
-   │
-   └──────────► Mobile Application
-```
-
-**Stack**
+### Technology
 
 `ESP32` · `Arduino` · `Firebase` · `Sensors`
 
 ---
 
-# 🧠 Development Mindset
+# 🧩 Development Workflow
+
+<div align="center">
+
+```text
+        ┌──────────────┐
+        │     IDEA     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   ANALYSIS   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     BUILD    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     TEST     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DEPLOY    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────────────┘
+```
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+`System Design` · `Backend Architecture` · `Cloud Computing`
+
+<br>
+
+`Docker` · `CI/CD` · `Flutter` · `Software Testing`
+
+<br><br>
+
+<!-- Small Anime Animation -->
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F0N2d5cW5qY2R6N3N2Y3R4cWZ4d2J4a2R4bWZ4Y2V5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Anime Learning Animation" />
+
+</div>
+
+---
+
+# 💡 Development Principles
 
 <div align="center">
 
 <table>
 <tr>
+<td align="center" width="20%">
 
-<td align="center">
+### Simple
 
-### 🎯 SIMPLE
-
-Don't over-engineer.
-
-</td>
-
-<td align="center">
-
-### ⚡ FAST
-
-Build → Test → Improve.
+Prefer simple solutions over unnecessary complexity.
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
-### 🧹 CLEAN
+### Useful
 
-Readable code matters.
-
-</td>
-
-<td align="center">
-
-### 🔒 SECURE
-
-Security from the beginning.
+Build software that solves real problems.
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
-### 🚀 SCALE
+### Clean
 
-Think beyond today.
+Write readable and maintainable code.
 
 </td>
 
+<td align="center" width="20%">
+
+### Consistent
+
+Follow predictable patterns and conventions.
+
+</td>
+
+<td align="center" width="20%">
+
+### Improve
+
+Learn from every project and iteration.
+
+</td>
 </tr>
 </table>
 
@@ -330,203 +373,42 @@ Think beyond today.
 
 ---
 
-# 🔥 GitHub Activity
+# 🤝 Let's Connect
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=maingga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
-height="180"
-/>
+<!-- Anime Goodbye Animation -->
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=maingga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-height="180"
-/>
-
-<br>
-
-<img
-src="https://streak-stats.demolab.com?user=maingga&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-width="700"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/maingga/maingga/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=maingga&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-alt="Contribution Graph"
-/>
-
-</div>
-
----
-
-# 🌌 Currently Learning
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   🧠 System Design                               ║
-║   ⚙️ Backend Architecture                        ║
-║   ☁️ Cloud Computing                             ║
-║   🐳 Docker                                      ║
-║   🔄 CI/CD                                       ║
-║   📱 Flutter                                     ║
-║   🧪 Software Testing                            ║
-║   🔐 Application Security                        ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 🛠️ Development Workflow
-
-<div align="center">
-
-```text
-              ┌──────────────┐
-              │   💡 IDEA    │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │  🔍 ANALYZE  │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │  🎨 DESIGN   │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │  💻 BUILD    │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │   🧪 TEST    │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │  🚀 DEPLOY   │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │  🔄 IMPROVE  │
-              └──────────────┘
-```
-
-</div>
-
----
-
-# 🎮 Developer Stats
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Code-Laravel%20%7C%20Next.js%20%7C%20Flutter-58A6FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Backend-API%20%7C%20Database%20%7C%20Auth-8B5CF6?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Cloud-Docker%20%7C%20CI%2FCD-06B6D4?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/IoT-ESP32%20%7C%20Firebase-10B981?style=for-the-badge" />
-
-</div>
-
----
-
-# 🎴 Developer Philosophy
-
-<div align="center">
-
-> ### 「コードはただ動けばいいわけじゃない。」
->
-> **Good software should be useful, maintainable, secure, and enjoyable to use.**
-
-<br>
-
-`Learn.` → `Build.` → `Break.` → `Fix.` → `Improve.` → `Repeat.`
-
-</div>
-
----
-
-# 🌠 Let's Connect
-
-<div align="center">
-
-<img
-src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-width="350"
-alt="Anime Developer"
-/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ4d2F0bGJ4bWZ4cWZ4d2R4d3J4bWZ4Y2R4cG9mZ3R6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8kN5w7Q1q5Q1q/giphy.gif" width="230" alt="Anime Goodbye Animation" />
 
 <br><br>
 
-### 💬 Open for
-
-`Interesting Projects` · `Collaboration` · `Tech Discussions` · `New Opportunities`
+I'm always open to **interesting projects, collaboration, technology discussions, and new opportunities.**
 
 <br><br>
-
-<a href="https://github.com/maingga">
-<img src="https://img.shields.io/badge/GitHub- FOLLOW-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmad.nanamaingga12@gmail.com">
-<img src="https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/maingga">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome.;Keep+learning.;Keep+building.;See+you+in+the+next+commit."
-alt="Footer Animation"
-/>
-
-<br><br>
-
-⭐ **If you like my projects, consider giving them a star!** ⭐
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great.;Stay+curious.+Keep+building." alt="Footer Typing Animation" />
 
 </div>
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:111C44,100:050816&animation=twinkling"
-width="100%"
-/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:1F6FEB" width="100%" />
+
+</div>
