@@ -2,7 +2,7 @@
 <rect width="1000" height="430" rx="22" fill="#0D1117" stroke="#30363D"/>
 <rect width="1000" height="46" rx="22" fill="#161B22"/>
 <circle cx="24" cy="23" r="6" fill="#FF5F56"/><circle cx="44" cy="23" r="6" fill="#FFBD2E"/><circle cx="64" cy="23" r="6" fill="#27C93F"/>
-<text x="500" y="29" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="14">ahmad@developer:~</text>
+<text x="500" y="29" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="14">maingga@developer:~</text>
 <g font-family="monospace" font-size="18">
 <text x="50" y="95" fill="#58A6FF">$ whoami</text>
 <text x="50" y="125" fill="#FFFFFF">Ahmad Nana Maingga</text>
