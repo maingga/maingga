@@ -477,7 +477,7 @@ Let's build something meaningful.
 
   
 
-<a href="mailto:ahmad.nanamaingga12@gmail.com">
+<a href="mailto:nanamaingga12@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
     alt="Email"
