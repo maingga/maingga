@@ -1,24 +1,36 @@
 <div align="center">
 
-<img src="./assets/developer-header.svg" width="100%" alt="Futuristic developer header" />
+<!-- 01 — HERO -->
+<img src="./assets/developer-header.svg" width="100%" alt="Ahmad Nana Maingga futuristic developer header" />
+
+<br>
+
+<img src="./assets/developer-typing.svg" width="88%" alt="Developer terminal typing animation" />
 
 <br><br>
 
-<img src="./assets/developer-typing.svg" width="88%" alt="Animated developer terminal typing" />
+<!-- 02 — IDENTITY & CONTACT -->
+<img src="./assets/identity-network.svg" width="94%" alt="Developer identity and social network" />
 
 <br><br>
 
-<a href="https://github.com/maingga"><img src="./assets/social-hub.svg" width="92%" alt="GitHub, LinkedIn and Email social hub" /></a>
+<a href="https://github.com/maingga">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:ahmad.nanamaingga12@gmail.com">Email</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=maingga&label=LIVE%20PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Live profile views" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<img src="./assets/section-divider.svg" width="100%" alt="" />
+
+# 01 · 👨‍💻 About
 
 > **Build useful software. Keep the code clean. Keep learning.**
 
@@ -28,7 +40,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 
 My main interests are **full-stack web development, backend engineering, mobile applications, cloud computing, and IoT systems**.
 
-### Currently
+### Current Focus
 
 - 🔭 Building full-stack web applications
 - 🌱 Exploring backend architecture and cloud technologies
@@ -38,54 +50,46 @@ My main interests are **full-stack web development, backend engineering, mobile 
 
 ---
 
-# ⚡ Engineering Focus
+# 02 · ⚡ Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+### 🌐 Web Engineering
 
-Building responsive and scalable web applications using modern frontend technologies and robust backend systems.
+Responsive interfaces, scalable applications, API integration, and modern frontend architecture.
 
-**Focus**
-
-`Next.js` · `React` · `TypeScript` · `Laravel`
+**Core:** `Next.js` · `React` · `TypeScript` · `Laravel`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Mobile Development
+### ⚙️ Backend Engineering
 
-Creating cross-platform mobile applications with clean interfaces and reliable backend integration.
+REST APIs, authentication, databases, business logic, payment integration, and service architecture.
 
-**Focus**
-
-`Flutter` · `Java` · `Firebase`
+**Core:** `Laravel` · `Node.js` · `NestJS` · `MySQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
+### 📱 Mobile Engineering
 
-Designing APIs, authentication systems, databases, payment integrations, and application business logic.
+Cross-platform applications with clean UI and reliable backend connectivity.
 
-**Focus**
-
-`Laravel` · `Node.js` · `NestJS` · `MySQL`
+**Core:** `Flutter` · `Java` · `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 IoT Development
+### 🔌 IoT Engineering
 
-Connecting sensors, microcontrollers, cloud services, and applications to create connected systems.
+Connected systems using microcontrollers, sensors, cloud services, and remote monitoring.
 
-**Focus**
-
-`ESP32` · `Arduino` · `Firebase`
+**Core:** `ESP32` · `Arduino` · `Firebase`
 
 </td>
 </tr>
@@ -93,142 +97,95 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 🛠️ Technology Command Center
+# 03 · 🛠️ Technology Command Center
 
 <div align="center">
 
-### FRONTEND SYSTEM
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend technologies" />
 
-<br>
-
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+<br>`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
 <br><br>
 
-### BACKEND SYSTEM
+### BACKEND
 
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" alt="Backend technologies" />
 
-<br>
-
-`Laravel` · `PHP` · `Node.js` · `NestJS`
+<br>`Laravel` · `PHP` · `Node.js` · `NestJS`
 
 <br><br>
 
-### MOBILE & IoT SYSTEM
+### MOBILE & IoT
 
 <img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" alt="Mobile and IoT technologies" />
 
-<br>
-
-`Flutter` · `Java` · `Android` · `Arduino` · `ESP32`
+<br>`Flutter` · `Java` · `Android` · `Arduino` · `ESP32`
 
 <br><br>
 
-### DATA & INFRASTRUCTURE
+### DATA & DEVOPS
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Database and DevOps technologies" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github" alt="Data and DevOps technologies" />
 
-<br>
-
-`MySQL` · `Firebase` · `Docker` · `Git` · `GitHub`
+<br>`MySQL` · `Firebase` · `Docker` · `Git` · `GitHub`
 
 <br><br>
 
 ### ENGINEERING TOOLS
 
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode" alt="Engineering tools" />
 
-<br>
-
-`Postman` · `Figma` · `VS Code`
+<br>`Postman` · `Figma` · `VS Code`
 
 </div>
 
 ---
 
-# 🚀 Featured Missions
+# 04 · 🚀 Featured Missions
 
-## 🕌 Mission 01 — ZIS Crowdfunding Platform
+### 🕌 Mission 01 — ZIS Crowdfunding Platform
 
-**A web-based crowdfunding platform for Zakat, Infaq, and Shodaqoh focused on transparency and accountability.**
+**Web-based crowdfunding platform for Zakat, Infaq, and Shodaqoh focused on transparency and accountability.**
 
-### Key Features
+**Highlights:** Online ZIS donations · Zakat calculator · Program management · Midtrans/QRIS · Donation history · Fund distribution · Financial reporting · Program wallet · Masjid wallet · Notifications · Automatic program closure
 
-- Online ZIS donations
-- Zakat calculator
-- Donation program management
-- Payment gateway integration
-- Donation history
-- Fund distribution management
-- Transparent financial reporting
-- Program wallet
-- Masjid wallet
-- Notification system
-- Automatic program closure
-
-### Technology
-
-`Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS`
+**Stack:** `Laravel` · `MySQL` · `Tailwind CSS` · `Midtrans` · `QRIS`
 
 ---
 
-## 🏸 Mission 02 — Sport Center Reservation
+### 🏸 Mission 02 — Sport Center Reservation
 
-**A full-stack reservation platform designed to simplify sports facility booking and payment management.**
+**Full-stack reservation platform for sports facility booking and payment management.**
 
-### Key Features
+**Highlights:** Authentication · Facility management · Online booking · Schedules · Payment gateway · DP payment · Transactions · Reservation history · Admin dashboard
 
-- User authentication
-- Sports facility management
-- Online booking
-- Booking schedules
-- Payment gateway
-- DP payment
-- Transaction management
-- Reservation history
-- Admin dashboard
-
-### Technology
-
-`Next.js` · `React` · `Laravel` · `MySQL` · `Midtrans`
+**Stack:** `Next.js` · `React` · `Laravel` · `MySQL` · `Midtrans`
 
 ---
 
-## 🌱 Mission 03 — Smart IoT Automation
+### 🌱 Mission 03 — Smart IoT Automation
 
-**An IoT-based system connecting sensors, ESP32, cloud services, and applications for monitoring and automation.**
+**IoT system connecting sensors, ESP32, cloud services, and applications for monitoring and automation.**
 
-### Key Features
+**Highlights:** Sensor monitoring · Automated control · ESP32 integration · Real-time data · Cloud connectivity · Remote monitoring
 
-- Sensor monitoring
-- Automated control
-- ESP32 integration
-- Real-time data
-- Cloud connectivity
-- Remote monitoring
-
-### Technology
-
-`ESP32` · `Arduino` · `Firebase` · `Sensors`
+**Stack:** `ESP32` · `Arduino` · `Firebase` · `Sensors`
 
 ---
 
-# 🌌 Developer Galaxy
+# 05 · 🌌 Developer Galaxy
 
 <div align="center">
 
 <img src="./assets/developer-galaxy.svg" width="100%" alt="Developer Galaxy" />
 
-<br>
+<br><br>
 
 **Every project is a star. Every technology is a connection.**
 
 </div>
-
-### ⭐ Galaxy Map
 
 | ⭐ Node | Project / Technology | Core Stack |
 |---|---|---|
@@ -242,7 +199,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 🖥️ Developer Terminal
+# 06 · 🖥️ Developer Terminal
 
 <div align="center">
 
@@ -252,7 +209,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 📡 System Architecture Mindset
+# 07 · 📡 System Architecture
 
 <div align="center">
 
@@ -262,16 +219,13 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
                          └────────┬────────┘
                                   │
               ┌───────────────────┼───────────────────┐
-              │                   │                   │
               ▼                   ▼                   ▼
        ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
        │     WEB     │     │   MOBILE    │     │     IoT     │
-       │  Next.js    │     │   Flutter   │     │    ESP32    │
-       │   React     │     │   Android   │     │   Arduino   │
+       │ Next.js     │     │ Flutter     │     │ ESP32       │
+       │ React       │     │ Android     │     │ Arduino     │
        └──────┬──────┘     └──────┬──────┘     └──────┬──────┘
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
+              └───────────────────┬┴───────────────────┘
                                   ▼
                          ┌─────────────────┐
                          │    API LAYER    │
@@ -279,7 +233,6 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
                          └────────┬────────┘
                                   │
                ┌──────────────────┼──────────────────┐
-               │                  │                  │
                ▼                  ▼                  ▼
         ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
         │    MySQL    │    │  Firebase   │    │   Payment   │
@@ -288,8 +241,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
                                   │
                                   ▼
                          ┌─────────────────┐
-                         │     DOCKER      │
-                         │   DEPLOYMENT    │
+                         │ Docker / Cloud  │
                          └─────────────────┘
 ```
 
@@ -297,44 +249,14 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 🧩 Engineering Workflow
+# 08 · 🧩 Engineering Workflow
 
 <div align="center">
 
 ```text
-                 ┌──────────────┐
-                 │     IDEA     │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │    ANALYZE   │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │    DESIGN    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │     BUILD    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │     TEST     │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │    DEPLOY    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │   MONITOR    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │   IMPROVE    │
-                 └──────┬───────┘
-                        │
-                        └──────────────↺
+IDEA → ANALYZE → DESIGN → BUILD → TEST → DEPLOY → MONITOR → IMPROVE
+  ↑                                                        │
+  └────────────────────────── ITERATE ─────────────────────┘
 ```
 
 </div>
@@ -343,7 +265,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 🌱 Currently Learning
+# 09 · 🌱 Currently Learning
 
 <div align="center">
 
@@ -355,7 +277,7 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 📊 Developer Activity
+# 10 · 📊 Developer Activity
 
 <div align="center">
 
@@ -369,11 +291,11 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 </div>
 
-> **Note:** The custom activity dashboard above is intentionally repository-local and does not depend on the public `github-readme-stats` endpoint. The activity graph is an optional live visualization.
+> The main dashboard is repository-local, so it remains available even if external GitHub stats services fail. The activity graph is an optional live visualization.
 
 ---
 
-# 💡 Development Principles
+# 11 · 💡 Development Principles
 
 <div align="center">
 
@@ -385,17 +307,13 @@ Connecting sensors, microcontrollers, cloud services, and applications to create
 
 ---
 
-# 🤝 Let's Connect
+# 12 · 🤝 Let's Connect
 
 <div align="center">
 
-<img src="./assets/social-hub.svg" width="92%" alt="Social connection hub" />
+<img src="./assets/identity-network.svg" width="94%" alt="Social connection network" />
 
 <br><br>
-
-**Have an idea, project, or technology to discuss?**
-
-<br>
 
 <a href="https://github.com/maingga">GitHub</a>
 &nbsp;•&nbsp;
