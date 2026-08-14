@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<defs>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#1F6FEB"/><stop offset=".5" stop-color="#58A6FF"/><stop offset="1" stop-color="#79C0FF"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#58A6FF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x="6" y="6" width="1188" height="178" rx="24" fill="#0D1117" stroke="#30363D"/>
+<rect x="6" y="6" width="1188" height="178" rx="24" fill="url(#grid)"/>
+<g font-family="monospace">
+ <text x="42" y="38" fill="#58A6FF" font-size="12">◈ DEVELOPER IDENTITY NETWORK</text>
+ <circle cx="1150" cy="33" r="5" fill="#39D353" filter="url(#glow)"/>
+ <text x="1165" y="38" text-anchor="end" fill="#8B949E" font-size="11">ONLINE</text>
+ <line x1="42" y1="52" x2="1158" y2="52" stroke="#21262D"/>
+ <g transform="translate(42,75)">
+   <circle cx="28" cy="27" r="25" fill="#161B22" stroke="#58A6FF" filter="url(#glow)"/>
+   <path d="M16 28c0-9 7-16 16-16 8 0 14 5 16 13 1 7-2 13-8 17-5 3-13 3-18-1-4-3-6-8-6-13z" fill="#F0F6FC"/>
+   <text x="70" y="23" fill="#FFFFFF" font-size="16" font-weight="700">GITHUB</text>
+   <text x="70" y="44" fill="#8B949E" font-size="12">@maingga</text>
+ </g>
+ <g transform="translate(400,75)">
+   <circle cx="28" cy="27" r="25" fill="#161B22" stroke="#58A6FF" filter="url(#glow)"/>
+   <text x="28" y="36" text-anchor="middle" fill="#F0F6FC" font-size="25" font-family="Arial" font-weight="700">in</text>
+   <text x="70" y="23" fill="#FFFFFF" font-size="16" font-weight="700">LINKEDIN</text>
+   <text x="70" y="44" fill="#8B949E" font-size="12">connect with me</text>
+ </g>
+ <g transform="translate(758,75)">
+   <circle cx="28" cy="27" r="25" fill="#161B22" stroke="#58A6FF" filter="url(#glow)"/>
+   <path d="M14 18h28v20H14z" fill="none" stroke="#F0F6FC" stroke-width="2"/><path d="M15 19l13 10 13-10" fill="none" stroke="#F0F6FC" stroke-width="2"/>
+   <text x="70" y="23" fill="#FFFFFF" font-size="16" font-weight="700">EMAIL</text>
+   <text x="70" y="44" fill="#8B949E" font-size="12">contact channel</text>
+ </g>
+ <line x1="42" y1="154" x2="1158" y2="154" stroke="url(#line)" stroke-opacity=".35"/>
+ <text x="42" y="174" fill="#8B949E" font-size="11">◉ PROFILE VIEWS</text>
+ <text x="1170" y="174" text-anchor="end" fill="#58A6FF" font-size="11">LIVE COUNTER • github.com/maingga</text>
+</g>
+</svg>
