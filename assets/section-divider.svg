@@ -3,79 +3,33 @@
      width="100%"
      height="40"
      role="img"
-     aria-label="Animated developer section divider">
+     aria-label="Developer section divider">
 
   <defs>
 
-    <!-- ========================================= -->
-    <!-- MAIN GRADIENT -->
-    <!-- ========================================= -->
-
-    <linearGradient id="lineGradient"
+    <linearGradient id="line"
                     x1="0"
                     y1="0"
                     x2="1"
                     y2="0">
 
-      <stop offset="0%"
-            stop-color="#1F6FEB"
-            stop-opacity="0"/>
-
-      <stop offset="35%"
-            stop-color="#1F6FEB"
-            stop-opacity=".35"/>
-
-      <stop offset="50%"
-            stop-color="#58A6FF"
-            stop-opacity="1"/>
-
-      <stop offset="65%"
-            stop-color="#1F6FEB"
-            stop-opacity=".35"/>
-
-      <stop offset="100%"
-            stop-color="#1F6FEB"
-            stop-opacity="0"/>
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
 
     </linearGradient>
 
-
-    <!-- ========================================= -->
-    <!-- ENERGY GRADIENT -->
-    <!-- ========================================= -->
-
-    <linearGradient id="energy"
+    <linearGradient id="beam"
                     x1="0"
                     y1="0"
                     x2="1"
                     y2="0">
 
-      <stop offset="0%"
-            stop-color="#58A6FF"
-            stop-opacity="0"/>
-
-      <stop offset="45%"
-            stop-color="#58A6FF"
-            stop-opacity=".15"/>
-
-      <stop offset="50%"
-            stop-color="#FFFFFF"
-            stop-opacity="1"/>
-
-      <stop offset="55%"
-            stop-color="#58A6FF"
-            stop-opacity=".15"/>
-
-      <stop offset="100%"
-            stop-color="#58A6FF"
-            stop-opacity="0"/>
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
 
     </linearGradient>
-
-
-    <!-- ========================================= -->
-    <!-- GLOW -->
-    <!-- ========================================= -->
 
     <filter id="glow"
             x="-100%"
@@ -83,355 +37,333 @@
             width="300%"
             height="300%">
 
-      <feGaussianBlur
-        stdDeviation="3"
-        result="blur"/>
+      <feGaussianBlur stdDeviation="3"
+                      result="blur"/>
 
       <feMerge>
-
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
-
       </feMerge>
 
     </filter>
 
-
-    <!-- ========================================= -->
-    <!-- CLIP -->
-    <!-- ========================================= -->
-
     <clipPath id="clip">
-
-      <rect
-        x="0"
-        y="0"
-        width="1200"
-        height="40"/>
-
+      <rect width="1200" height="40"/>
     </clipPath>
 
   </defs>
 
 
-  <!-- ========================================= -->
+  <!-- ===================================== -->
   <!-- BASE CIRCUIT -->
-  <!-- ========================================= -->
+  <!-- ===================================== -->
+
+  <path
+    d="M0 20
+       H470
+       L488 14
+       L512 26
+       L530 20
+       H670
+       L688 14
+       L712 26
+       L730 20
+       H1200"
+    fill="none"
+    stroke="#21262D"
+    stroke-width="1"/>
+
+
+  <!-- ===================================== -->
+  <!-- MAIN LINE -->
+  <!-- ===================================== -->
+
+  <path
+    d="M0 20
+       H470
+       L488 14
+       L512 26
+       L530 20
+       H670
+       L688 14
+       L712 26
+       L730 20
+       H1200"
+    fill="none"
+    stroke="url(#line)"
+    stroke-width="1.5"/>
+
+
+  <!-- ===================================== -->
+  <!-- MOVING LIGHT BEAM -->
+  <!-- ===================================== -->
 
   <g clip-path="url(#clip)">
 
-    <path
-      d="M0 20
-         H470
-         L488 14
-         L512 26
-         L530 20
-         H670
-         L688 14
-         L712 26
-         L730 20
-         H1200"
-
-      fill="none"
-      stroke="#21262D"
-      stroke-width="1"/>
-
-
-    <!-- ========================================= -->
-    <!-- MAIN GLOWING LINE -->
-    <!-- ========================================= -->
-
-    <path
-      d="M0 20
-         H470
-         L488 14
-         L512 26
-         L530 20
-         H670
-         L688 14
-         L712 26
-         L730 20
-         H1200"
-
-      fill="none"
-      stroke="url(#lineGradient)"
-      stroke-width="1.2"
-      opacity=".8"/>
-
-
-    <!-- ========================================= -->
-    <!-- MOVING ENERGY BEAM -->
-    <!-- ========================================= -->
-
     <rect
-      x="-180"
-      y="10"
-      width="180"
-      height="20"
-      fill="url(#energy)"
-      opacity=".9"
+      x="-160"
+      y="8"
+      width="160"
+      height="24"
+      fill="url(#beam)"
+      opacity=".8"
       filter="url(#glow)">
 
       <animate
         attributeName="x"
-        values="-180;1200"
-        dur="3.8s"
+        from="-160"
+        to="1200"
+        dur="3.5s"
         repeatCount="indefinite"/>
 
     </rect>
 
 
-    <!-- ========================================= -->
-    <!-- SECOND ENERGY BEAM -->
-    <!-- ========================================= -->
+    <!-- SECOND BEAM -->
 
     <rect
-      x="-250"
-      y="13"
-      width="120"
-      height="14"
-      fill="url(#energy)"
+      x="-220"
+      y="12"
+      width="100"
+      height="16"
+      fill="url(#beam)"
       opacity=".35">
 
       <animate
         attributeName="x"
-        values="-250;1200"
-        dur="6s"
-        begin="1.7s"
+        from="-220"
+        to="1200"
+        dur="5s"
+        begin="1.5s"
         repeatCount="indefinite"/>
 
     </rect>
 
-
-    <!-- ========================================= -->
-    <!-- NODE 01 -->
-    <!-- ========================================= -->
-
-    <circle
-      cx="512"
-      cy="20"
-      r="3"
-      fill="#58A6FF"
-      filter="url(#glow)">
-
-      <animate
-        attributeName="r"
-        values="3;7;3"
-        dur="1.8s"
-        repeatCount="indefinite"/>
-
-      <animate
-        attributeName="opacity"
-        values="1;.25;1"
-        dur="1.8s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <!-- NODE 01 RING -->
-
-    <circle
-      cx="512"
-      cy="20"
-      r="7"
-      fill="none"
-      stroke="#58A6FF"
-      stroke-width="1"
-      opacity=".25">
-
-      <animate
-        attributeName="r"
-        values="5;14;5"
-        dur="2s"
-        repeatCount="indefinite"/>
-
-      <animate
-        attributeName="opacity"
-        values=".5;0;.5"
-        dur="2s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <!-- ========================================= -->
-    <!-- NODE 02 -->
-    <!-- ========================================= -->
-
-    <circle
-      cx="688"
-      cy="20"
-      r="3"
-      fill="#58A6FF"
-      filter="url(#glow)">
-
-      <animate
-        attributeName="r"
-        values="3;7;3"
-        dur="1.8s"
-        begin=".9s"
-        repeatCount="indefinite"/>
-
-      <animate
-        attributeName="opacity"
-        values=".25;1;.25"
-        dur="1.8s"
-        begin=".9s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <!-- NODE 02 RING -->
-
-    <circle
-      cx="688"
-      cy="20"
-      r="7"
-      fill="none"
-      stroke="#58A6FF"
-      stroke-width="1"
-      opacity=".25">
-
-      <animate
-        attributeName="r"
-        values="5;14;5"
-        dur="2s"
-        begin=".9s"
-        repeatCount="indefinite"/>
-
-      <animate
-        attributeName="opacity"
-        values=".5;0;.5"
-        dur="2s"
-        begin=".9s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <!-- ========================================= -->
-    <!-- TRAVELING DATA PARTICLE -->
-    <!-- ========================================= -->
-
-    <circle
-      cx="0"
-      cy="20"
-      r="2"
-      fill="#FFFFFF"
-      filter="url(#glow)">
-
-      <animateMotion
-        dur="4s"
-        repeatCount="indefinite"
-        path="M0 0 H470 L488 -6 L512 6 L530 0 H670 L688 -6 L712 6 L730 0 H1200"/>
-
-    </circle>
-
-
-    <!-- ========================================= -->
-    <!-- SECOND DATA PARTICLE -->
-    <!-- ========================================= -->
-
-    <circle
-      cx="0"
-      cy="20"
-      r="1.5"
-      fill="#79C0FF"
-      opacity=".8">
-
-      <animateMotion
-        dur="4s"
-        begin="2s"
-        repeatCount="indefinite"
-        path="M0 0 H470 L488 -6 L512 6 L530 0 H670 L688 -6 L712 6 L730 0 H1200"/>
-
-    </circle>
-
-
-    <!-- ========================================= -->
-    <!-- MICRO PARTICLES -->
-    <!-- ========================================= -->
-
-    <g fill="#58A6FF">
-
-      <circle cx="320" cy="20" r="1">
-
-        <animate
-          attributeName="opacity"
-          values=".1;1;.1"
-          dur="2s"
-          repeatCount="indefinite"/>
-
-      </circle>
-
-
-      <circle cx="850" cy="20" r="1">
-
-        <animate
-          attributeName="opacity"
-          values="1;.1;1"
-          dur="2.7s"
-          repeatCount="indefinite"/>
-
-      </circle>
-
-
-      <circle cx="1010" cy="20" r="1">
-
-        <animate
-          attributeName="opacity"
-          values=".1;1;.1"
-          dur="3.2s"
-          repeatCount="indefinite"/>
-
-      </circle>
-
-    </g>
-
-
-    <!-- ========================================= -->
-    <!-- CENTRAL PULSE -->
-    <!-- ========================================= -->
-
-    <path
-      d="M450 20 H470 L488 14 L512 26 L530 20"
-      fill="none"
-      stroke="#58A6FF"
-      stroke-width="2"
-      opacity=".25"
-      filter="url(#glow)">
-
-      <animate
-        attributeName="opacity"
-        values=".1;.8;.1"
-        dur="2.5s"
-        repeatCount="indefinite"/>
-
-    </path>
-
-
-    <!-- ========================================= -->
-    <!-- SECOND CENTRAL PULSE -->
-    <!-- ========================================= -->
-
-    <path
-      d="M650 20 H670 L688 14 L712 26 L730 20"
-      fill="none"
-      stroke="#58A6FF"
-      stroke-width="2"
-      opacity=".25"
-      filter="url(#glow)">
-
-      <animate
-        attributeName="opacity"
-        values=".8;.1;.8"
-        dur="2.5s"
-        repeatCount="indefinite"/>
-
-    </path>
-
   </g>
+
+
+  <!-- ===================================== -->
+  <!-- NODE 01 -->
+  <!-- ===================================== -->
+
+  <circle
+    cx="512"
+    cy="20"
+    r="3"
+    fill="#58A6FF"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="r"
+      values="3;6;3"
+      dur="1.5s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="1;.35;1"
+      dur="1.5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- NODE 01 RING -->
+
+  <circle
+    cx="512"
+    cy="20"
+    r="5"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="1"
+    opacity=".5">
+
+    <animate
+      attributeName="r"
+      values="5;13;5"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values=".5;0;.5"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- ===================================== -->
+  <!-- NODE 02 -->
+  <!-- ===================================== -->
+
+  <circle
+    cx="688"
+    cy="20"
+    r="3"
+    fill="#58A6FF"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="r"
+      values="3;6;3"
+      dur="1.5s"
+      begin=".75s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values=".3;1;.3"
+      dur="1.5s"
+      begin=".75s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- NODE 02 RING -->
+
+  <circle
+    cx="688"
+    cy="20"
+    r="5"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="1"
+    opacity=".5">
+
+    <animate
+      attributeName="r"
+      values="5;13;5"
+      dur="2s"
+      begin=".75s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values=".5;0;.5"
+      dur="2s"
+      begin=".75s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- ===================================== -->
+  <!-- MOVING DATA PARTICLES -->
+  <!-- ===================================== -->
+
+  <circle
+    cy="20"
+    r="2"
+    fill="#FFFFFF"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="cx"
+      values="0;300;470;512;670;688;850;1200"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle
+    cy="20"
+    r="1.5"
+    fill="#79C0FF">
+
+    <animate
+      attributeName="cx"
+      values="0;300;470;512;670;688;850;1200"
+      dur="4s"
+      begin="2s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- ===================================== -->
+  <!-- MICRO PARTICLES -->
+  <!-- ===================================== -->
+
+  <circle cx="320" cy="20" r="1" fill="#58A6FF">
+
+    <animate
+      attributeName="opacity"
+      values=".1;1;.1"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle cx="850" cy="20" r="1" fill="#58A6FF">
+
+    <animate
+      attributeName="opacity"
+      values="1;.1;1"
+      dur="2.7s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle cx="1010" cy="20" r="1" fill="#58A6FF">
+
+    <animate
+      attributeName="opacity"
+      values=".1;1;.1"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- ===================================== -->
+  <!-- CENTRAL PULSE -->
+  <!-- ===================================== -->
+
+  <path
+    d="M450 20
+       H470
+       L488 14
+       L512 26
+       L530 20"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="2"
+    filter="url(#glow)"
+    opacity=".2">
+
+    <animate
+      attributeName="opacity"
+      values=".1;.9;.1"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+
+  <path
+    d="M650 20
+       H670
+       L688 14
+       L712 26
+       L730 20"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="2"
+    filter="url(#glow)"
+    opacity=".2">
+
+    <animate
+      attributeName="opacity"
+      values=".9;.1;.9"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </path>
 
 </svg>
