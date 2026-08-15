@@ -7,9 +7,9 @@
 
   <defs>
 
-    <!-- ============================= -->
+    <!-- ================================================= -->
     <!-- BACKGROUND -->
-    <!-- ============================= -->
+    <!-- ================================================= -->
 
     <linearGradient id="bg"
                     x1="0"
@@ -17,31 +17,76 @@
                     x2="1"
                     y2="1">
 
-      <stop offset="0%"
-            stop-color="#02040A"/>
-
-      <stop offset="50%"
-            stop-color="#0B1018"/>
-
-      <stop offset="100%"
-            stop-color="#071A32"/>
+      <stop offset="0%" stop-color="#02040A"/>
+      <stop offset="48%" stop-color="#0A1019"/>
+      <stop offset="100%" stop-color="#071A32"/>
 
     </linearGradient>
 
 
-    <!-- ============================= -->
-    <!-- BLUE GLOW -->
-    <!-- ============================= -->
+    <!-- ================================================= -->
+    <!-- BLUE -->
+    <!-- ================================================= -->
+
+    <linearGradient id="blue"
+                    x1="0"
+                    y1="0"
+                    x2="1"
+                    y2="0">
+
+      <stop offset="0%" stop-color="#1F6FEB"/>
+      <stop offset="50%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#79C0FF"/>
+
+    </linearGradient>
+
+
+    <!-- ================================================= -->
+    <!-- ENERGY LINE -->
+    <!-- ================================================= -->
+
+    <linearGradient id="energy"
+                    x1="0"
+                    y1="0"
+                    x2="1"
+                    y2="0">
+
+      <stop offset="0%"
+            stop-color="#58A6FF"
+            stop-opacity="0"/>
+
+      <stop offset="40%"
+            stop-color="#58A6FF"
+            stop-opacity=".1"/>
+
+      <stop offset="50%"
+            stop-color="#FFFFFF"
+            stop-opacity="1"/>
+
+      <stop offset="60%"
+            stop-color="#58A6FF"
+            stop-opacity=".1"/>
+
+      <stop offset="100%"
+            stop-color="#58A6FF"
+            stop-opacity="0"/>
+
+    </linearGradient>
+
+
+    <!-- ================================================= -->
+    <!-- CENTER LIGHT -->
+    <!-- ================================================= -->
 
     <radialGradient id="centerGlow">
 
       <stop offset="0%"
             stop-color="#1F6FEB"
-            stop-opacity=".28"/>
+            stop-opacity=".22"/>
 
       <stop offset="45%"
             stop-color="#1F6FEB"
-            stop-opacity=".10"/>
+            stop-opacity=".08"/>
 
       <stop offset="100%"
             stop-color="#1F6FEB"
@@ -50,9 +95,9 @@
     </radialGradient>
 
 
-    <!-- ============================= -->
+    <!-- ================================================= -->
     <!-- GRID -->
-    <!-- ============================= -->
+    <!-- ================================================= -->
 
     <pattern id="grid"
              width="50"
@@ -63,38 +108,38 @@
         d="M50 0H0V50"
         fill="none"
         stroke="#58A6FF"
-        stroke-opacity=".045"
-        stroke-width="1"/>
+        stroke-opacity=".045"/>
 
     </pattern>
 
 
-    <!-- ============================= -->
-    <!-- LINE GRADIENT -->
-    <!-- ============================= -->
+    <!-- ================================================= -->
+    <!-- NAME REVEAL -->
+    <!-- ================================================= -->
 
-    <linearGradient id="blueLine"
-                    x1="0"
-                    x2="1">
+    <clipPath id="nameReveal">
 
-      <stop offset="0%"
-            stop-color="#58A6FF"
-            stop-opacity="0"/>
+      <rect
+        x="250"
+        y="215"
+        width="0"
+        height="75">
 
-      <stop offset="50%"
-            stop-color="#58A6FF"
-            stop-opacity=".9"/>
+        <animate
+          attributeName="width"
+          values="0;1100;1100;0"
+          keyTimes="0;0.28;0.72;1"
+          dur="8s"
+          repeatCount="indefinite"/>
 
-      <stop offset="100%"
-            stop-color="#58A6FF"
-            stop-opacity="0"/>
+      </rect>
 
-    </linearGradient>
+    </clipPath>
 
 
-    <!-- ============================= -->
-    <!-- GLOW FILTER -->
-    <!-- ============================= -->
+    <!-- ================================================= -->
+    <!-- SOFT GLOW -->
+    <!-- ================================================= -->
 
     <filter id="glow"
             x="-100%"
@@ -103,32 +148,15 @@
             height="300%">
 
       <feGaussianBlur
-        stdDeviation="6"
+        stdDeviation="5"
         result="blur"/>
 
       <feMerge>
 
         <feMergeNode in="blur"/>
-
         <feMergeNode in="SourceGraphic"/>
 
       </feMerge>
-
-    </filter>
-
-
-    <!-- ============================= -->
-    <!-- SOFT FILTER -->
-    <!-- ============================= -->
-
-    <filter id="soft"
-            x="-50%"
-            y="-50%"
-            width="200%"
-            height="200%">
-
-      <feGaussianBlur
-        stdDeviation="35"/>
 
     </filter>
 
@@ -146,8 +174,6 @@
     fill="url(#bg)"/>
 
 
-  <!-- GRID -->
-
   <rect
     width="1600"
     height="700"
@@ -156,20 +182,19 @@
 
 
   <!-- ================================================= -->
-  <!-- CENTER GLOW -->
+  <!-- CENTER ATMOSPHERE -->
   <!-- ================================================= -->
 
   <ellipse
     cx="800"
     cy="340"
-    rx="650"
+    rx="680"
     ry="330"
-    fill="url(#centerGlow)"
-    filter="url(#soft)">
+    fill="url(#centerGlow)">
 
     <animate
       attributeName="opacity"
-      values=".65;1;.65"
+      values=".5;1;.5"
       dur="6s"
       repeatCount="indefinite"/>
 
@@ -177,256 +202,251 @@
 
 
   <!-- ================================================= -->
-  <!-- SCAN LINE -->
+  <!-- SCANNING BEAM -->
   <!-- ================================================= -->
 
   <rect
     x="0"
-    y="-10"
+    y="-20"
     width="1600"
-    height="2"
-    fill="url(#blueLine)"
-    opacity=".65">
+    height="3"
+    fill="url(#energy)"
+    opacity=".7">
 
     <animate
       attributeName="y"
-      values="-10;710;-10"
-      dur="6s"
+      values="-20;720;-20"
+      dur="7s"
       repeatCount="indefinite"/>
 
   </rect>
 
 
   <!-- ================================================= -->
-  <!-- DECORATIVE PARTICLES -->
+  <!-- SECOND SCAN -->
   <!-- ================================================= -->
 
-  <g
-    fill="#B9DCFF"
-    filter="url(#glow)">
+  <rect
+    x="-300"
+    y="0"
+    width="220"
+    height="700"
+    fill="#58A6FF"
+    opacity=".018">
 
-    <circle
-      cx="130"
-      cy="150"
-      r="3">
+    <animate
+      attributeName="x"
+      values="-300;1650;-300"
+      dur="11s"
+      repeatCount="indefinite"/>
 
-      <animate
-        attributeName="opacity"
-        values=".2;1;.2"
-        dur="2.4s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <circle
-      cx="220"
-      cy="530"
-      r="2">
-
-      <animate
-        attributeName="opacity"
-        values="1;.2;1"
-        dur="3.2s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <circle
-      cx="390"
-      cy="105"
-      r="2">
-
-      <animate
-        attributeName="opacity"
-        values=".2;1;.2"
-        dur="2.7s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <circle
-      cx="1210"
-      cy="110"
-      r="3">
-
-      <animate
-        attributeName="opacity"
-        values=".2;1;.2"
-        dur="2.3s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <circle
-      cx="1380"
-      cy="520"
-      r="2">
-
-      <animate
-        attributeName="opacity"
-        values="1;.2;1"
-        dur="3.4s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-
-    <circle
-      cx="1480"
-      cy="170"
-      r="3">
-
-      <animate
-        attributeName="opacity"
-        values=".2;1;.2"
-        dur="2.8s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-  </g>
+  </rect>
 
 
   <!-- ================================================= -->
-  <!-- LEFT CONSTELLATION -->
+  <!-- TOP STATUS -->
   <!-- ================================================= -->
 
-  <g
-    fill="none"
-    stroke="#58A6FF"
-    stroke-opacity=".20"
-    stroke-width="2">
-
-    <path
-      d="M90 270 L250 190 L390 275"/>
-
-    <path
-      d="M250 190 L300 105"/>
-
-  </g>
-
-
-  <g fill="#58A6FF"
-     opacity=".65">
-
-    <circle cx="90" cy="270" r="3"/>
-    <circle cx="250" cy="190" r="3"/>
-    <circle cx="390" cy="275" r="3"/>
-    <circle cx="300" cy="105" r="2"/>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- RIGHT CONSTELLATION -->
-  <!-- ================================================= -->
-
-  <g
-    fill="none"
-    stroke="#58A6FF"
-    stroke-opacity=".20"
-    stroke-width="2">
-
-    <path
-      d="M1210 275 L1350 190 L1510 270"/>
-
-    <path
-      d="M1350 190 L1300 105"/>
-
-  </g>
-
-
-  <g fill="#58A6FF"
-     opacity=".65">
-
-    <circle cx="1210" cy="275" r="3"/>
-    <circle cx="1350" cy="190" r="3"/>
-    <circle cx="1510" cy="270" r="3"/>
-    <circle cx="1300" cy="105" r="2"/>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- TOP SYSTEM STATUS -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="Arial, Helvetica, sans-serif"
-    text-anchor="middle">
+  <g font-family="monospace">
 
     <text
       x="800"
-      y="170"
+      y="135"
+      text-anchor="middle"
       fill="#58A6FF"
-      font-size="16"
-      font-weight="600"
-      letter-spacing="4">
+      font-size="15"
+      letter-spacing="5">
 
-      DIGITAL BUILDER // SYSTEM ONLINE
+      DIGITAL BUILDER
 
     </text>
 
 
-    <!-- ================================================= -->
-    <!-- MAIN NAME -->
-    <!-- ================================================= -->
+    <text
+      x="800"
+      y="160"
+      text-anchor="middle"
+      fill="#484F58"
+      font-size="10"
+      letter-spacing="3">
+
+      SYSTEM / ONLINE / READY
+
+    </text>
+
+
+    <!-- Status pulse -->
+
+    <circle
+      cx="635"
+      cy="154"
+      r="3"
+      fill="#27C93F">
+
+      <animate
+        attributeName="r"
+        values="3;7;3"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="1;.1;1"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle
+      cx="965"
+      cy="154"
+      r="3"
+      fill="#27C93F">
+
+      <animate
+        attributeName="r"
+        values="3;7;3"
+        dur="1.5s"
+        begin=".7s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="1;.1;1"
+        dur="1.5s"
+        begin=".7s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- NAME BASE -->
+  <!-- ================================================= -->
+
+  <text
+    x="800"
+    y="270"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="58"
+    font-weight="800"
+    letter-spacing="2"
+    opacity=".08">
+
+    AHMAD NANA MAINGGA
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- ANIMATED NAME -->
+  <!-- ================================================= -->
+
+  <g clip-path="url(#nameReveal)">
 
     <text
       x="800"
       y="270"
+      text-anchor="middle"
       fill="#FFFFFF"
+      font-family="Arial, Helvetica, sans-serif"
       font-size="58"
       font-weight="800"
-      letter-spacing="1">
+      letter-spacing="2">
 
       AHMAD NANA MAINGGA
 
     </text>
 
-
-    <!-- ================================================= -->
-    <!-- ROLE -->
-    <!-- ================================================= -->
-
-    <text
-      x="800"
-      y="320"
-      fill="#A5ADB8"
-      font-size="18"
-      letter-spacing="2">
-
-      FULL-STACK DEVELOPER • MOBILE • CLOUD • IoT
-
-    </text>
-
   </g>
 
 
   <!-- ================================================= -->
-  <!-- DIVIDER -->
+  <!-- NAME SCANNER -->
+  <!-- ================================================= -->
+
+  <rect
+    x="250"
+    y="218"
+    width="3"
+    height="62"
+    fill="#58A6FF"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="x"
+      values="250;1350;250"
+      dur="8s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- ================================================= -->
+  <!-- ROLE -->
+  <!-- ================================================= -->
+
+  <text
+    x="800"
+    y="320"
+    text-anchor="middle"
+    fill="#A5ADB8"
+    font-family="monospace"
+    font-size="17"
+    letter-spacing="2">
+
+    FULL-STACK DEVELOPER • MOBILE • CLOUD • IoT
+
+    <animate
+      attributeName="opacity"
+      values="0;.3;1;1;0"
+      keyTimes="0;.12;.25;.75;1"
+      dur="8s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- ENERGY DIVIDER -->
   <!-- ================================================= -->
 
   <line
-    x1="500"
+    x1="450"
     y1="355"
-    x2="1100"
+    x2="1150"
     y2="355"
-    stroke="url(#blueLine)"
+    stroke="#21262D"
     stroke-width="1"/>
+
+
+  <rect
+    x="450"
+    y="353"
+    width="90"
+    height="4"
+    fill="url(#energy)"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="x"
+      values="450;1060;450"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </rect>
 
 
   <!-- ================================================= -->
   <!-- STATUS CARDS -->
   <!-- ================================================= -->
 
-  <g
-    font-family="monospace"
-    font-size="14">
+  <g font-family="monospace">
 
     <!-- BUILDING -->
 
@@ -437,27 +457,35 @@
         height="52"
         rx="26"
         fill="#0D1117"
-        stroke="#30363D"
-        stroke-width="1.5"/>
+        stroke="#30363D"/>
+
 
       <circle
         cx="32"
         cy="26"
-        r="6"
+        r="5"
         fill="#27C93F">
 
         <animate
+          attributeName="r"
+          values="5;9;5"
+          dur="1.5s"
+          repeatCount="indefinite"/>
+
+        <animate
           attributeName="opacity"
-          values="1;.25;1"
+          values="1;.15;1"
           dur="1.5s"
           repeatCount="indefinite"/>
 
       </circle>
 
+
       <text
         x="52"
         y="31"
-        fill="#D0D7DE">
+        fill="#D0D7DE"
+        font-size="13">
 
         BUILDING
 
@@ -475,27 +503,35 @@
         height="52"
         rx="26"
         fill="#0D1117"
-        stroke="#30363D"
-        stroke-width="1.5"/>
+        stroke="#30363D"/>
+
 
       <circle
         cx="32"
         cy="26"
-        r="6"
+        r="5"
         fill="#58A6FF">
 
         <animate
+          attributeName="r"
+          values="5;9;5"
+          dur="1.8s"
+          repeatCount="indefinite"/>
+
+        <animate
           attributeName="opacity"
-          values=".3;1;.3"
+          values=".2;1;.2"
           dur="1.8s"
           repeatCount="indefinite"/>
 
       </circle>
 
+
       <text
         x="52"
         y="31"
-        fill="#D0D7DE">
+        fill="#D0D7DE"
+        font-size="13">
 
         LEARNING
 
@@ -513,27 +549,35 @@
         height="52"
         rx="26"
         fill="#0D1117"
-        stroke="#30363D"
-        stroke-width="1.5"/>
+        stroke="#30363D"/>
+
 
       <circle
         cx="32"
         cy="26"
-        r="6"
+        r="5"
         fill="#FFFFFF">
 
         <animate
+          attributeName="r"
+          values="5;9;5"
+          dur="2.1s"
+          repeatCount="indefinite"/>
+
+        <animate
           attributeName="opacity"
-          values=".3;1;.3"
+          values=".2;1;.2"
           dur="2.1s"
           repeatCount="indefinite"/>
 
       </circle>
 
+
       <text
         x="52"
         y="31"
-        fill="#D0D7DE">
+        fill="#D0D7DE"
+        font-size="13">
 
         IMPROVING
 
@@ -545,7 +589,7 @@
 
 
   <!-- ================================================= -->
-  <!-- TECH STACK -->
+  <!-- TECH LINE -->
   <!-- ================================================= -->
 
   <text
@@ -553,36 +597,61 @@
     y="510"
     text-anchor="middle"
     fill="#58A6FF"
-    opacity=".80"
     font-family="monospace"
     font-size="13"
-    letter-spacing="1">
+    letter-spacing="2">
 
-    ◈ WEB  ◈  API  ◈  DATABASE  ◈  MOBILE  ◈  CLOUD  ◈  IoT  ◈
+    WEB  ◈  API  ◈  DATABASE  ◈  MOBILE  ◈  CLOUD  ◈  IoT
+
+    <animate
+      attributeName="opacity"
+      values=".45;1;.45"
+      dur="3s"
+      repeatCount="indefinite"/>
 
   </text>
 
 
   <!-- ================================================= -->
-  <!-- BOTTOM MESSAGE -->
+  <!-- TERMINAL MESSAGE -->
   <!-- ================================================= -->
 
   <text
     x="800"
-    y="565"
+    y="560"
     text-anchor="middle"
     fill="#8B949E"
     font-family="monospace"
     font-size="13"
     letter-spacing="2">
 
-    BUILD • LEARN • SHIP • IMPROVE
+    &gt; BUILD • LEARN • SHIP • IMPROVE
 
   </text>
 
 
   <!-- ================================================= -->
-  <!-- BOTTOM LINE -->
+  <!-- MOVING TERMINAL CURSOR -->
+  <!-- ================================================= -->
+
+  <rect
+    x="800"
+    y="545"
+    width="7"
+    height="17"
+    fill="#58A6FF">
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur=".8s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- ================================================= -->
+  <!-- LOWER ENERGY LINE -->
   <!-- ================================================= -->
 
   <line
@@ -590,37 +659,206 @@
     y1="595"
     x2="1130"
     y2="595"
-    stroke="url(#blueLine)"
-    stroke-width="1"
-    opacity=".7"/>
+    stroke="#21262D"/>
+
+
+  <rect
+    x="470"
+    y="593"
+    width="100"
+    height="3"
+    fill="url(#energy)">
+
+    <animate
+      attributeName="x"
+      values="470;1030;470"
+      dur="4.5s"
+      repeatCount="indefinite"/>
+
+  </rect>
 
 
   <!-- ================================================= -->
-  <!-- CORNER DECORATION -->
+  <!-- LEFT CONSTELLATION -->
   <!-- ================================================= -->
 
   <g
     fill="none"
     stroke="#58A6FF"
-    stroke-opacity=".25"
-    stroke-width="1">
+    stroke-opacity=".22">
 
-    <!-- top left -->
+    <path d="M90 270 L250 190 L390 275"/>
+    <path d="M250 190 L300 105"/>
+
+  </g>
+
+
+  <g fill="#58A6FF">
+
+    <circle cx="90" cy="270" r="3">
+
+      <animate
+        attributeName="r"
+        values="3;7;3"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle cx="250" cy="190" r="3">
+
+      <animate
+        attributeName="r"
+        values="3;8;3"
+        dur="2.8s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle cx="390" cy="275" r="3"/>
+
+    <circle cx="300" cy="105" r="2"/>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- RIGHT CONSTELLATION -->
+  <!-- ================================================= -->
+
+  <g
+    fill="none"
+    stroke="#58A6FF"
+    stroke-opacity=".22">
+
+    <path d="M1210 275 L1350 190 L1510 270"/>
+    <path d="M1350 190 L1300 105"/>
+
+  </g>
+
+
+  <g fill="#58A6FF">
+
+    <circle cx="1210" cy="275" r="3"/>
+
+    <circle cx="1350" cy="190" r="3">
+
+      <animate
+        attributeName="r"
+        values="3;8;3"
+        dur="2.8s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle cx="1510" cy="270" r="3">
+
+      <animate
+        attributeName="r"
+        values="3;7;3"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle cx="1300" cy="105" r="2"/>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- FLOATING PARTICLES -->
+  <!-- ================================================= -->
+
+  <g fill="#B9DCFF">
+
+    <circle cx="130" cy="150" r="2">
+
+      <animate
+        attributeName="cy"
+        values="150;125;150"
+        dur="4s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="2.4s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle cx="220" cy="530" r="2">
+
+      <animate
+        attributeName="cy"
+        values="530;500;530"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="1;.2;1"
+        dur="3.2s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle cx="1380" cy="520" r="2">
+
+      <animate
+        attributeName="cy"
+        values="520;490;520"
+        dur="4.5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="2.8s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle cx="1480" cy="170" r="2">
+
+      <animate
+        attributeName="cy"
+        values="170;145;170"
+        dur="3.5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="2.2s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- CORNER HUD -->
+  <!-- ================================================= -->
+
+  <g
+    fill="none"
+    stroke="#58A6FF"
+    stroke-opacity=".25">
 
     <path d="M40 80 H125"/>
     <path d="M40 80 V145"/>
 
-    <!-- top right -->
-
     <path d="M1475 80 H1560"/>
     <path d="M1560 80 V145"/>
 
-    <!-- bottom left -->
-
     <path d="M40 620 H125"/>
     <path d="M40 555 V620"/>
-
-    <!-- bottom right -->
 
     <path d="M1475 620 H1560"/>
     <path d="M1560 555 V620"/>
@@ -629,7 +867,7 @@
 
 
   <!-- ================================================= -->
-  <!-- SMALL TECH MARKERS -->
+  <!-- SYSTEM LABELS -->
   <!-- ================================================= -->
 
   <g
@@ -638,13 +876,41 @@
     fill="#58A6FF"
     opacity=".45">
 
-    <text x="70" y="175">SYS_01</text>
-    <text x="70" y="190">ONLINE</text>
+    <text x="70" y="175">
+      SYS_01
+    </text>
 
-    <text x="1440" y="175">NODE_01</text>
-    <text x="1440" y="190">ACTIVE</text>
+    <text x="70" y="190">
+      ONLINE
+    </text>
+
+    <text x="1440" y="175">
+      NODE_01
+    </text>
+
+    <text x="1440" y="190">
+      ACTIVE
+    </text>
 
   </g>
+
+
+  <!-- ================================================= -->
+  <!-- BOTTOM SYSTEM -->
+  <!-- ================================================= -->
+
+  <text
+    x="800"
+    y="635"
+    text-anchor="middle"
+    fill="#484F58"
+    font-family="monospace"
+    font-size="10"
+    letter-spacing="3">
+
+    SYSTEM // BUILD // TEST // DEPLOY // IMPROVE
+
+  </text>
 
 
 </svg>
