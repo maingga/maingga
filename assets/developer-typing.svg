@@ -1,913 +1,250 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1200 500"
-     width="100%"
-     height="auto"
-     role="img"
-     aria-label="Developer workflow terminal">
+<!-- ===================================================== -->
+<!-- ANIMATED TERMINAL TEXT -->
+<!-- ===================================================== -->
 
-  <defs>
+<defs>
 
-    <!-- ========================================= -->
-    <!-- BACKGROUND -->
-    <!-- ========================================= -->
-
-    <linearGradient id="panel"
-                    x1="0"
-                    y1="0"
-                    x2="1"
-                    y2="1">
-
-      <stop offset="0%"
-            stop-color="#07152B"/>
-
-      <stop offset="48%"
-            stop-color="#0D1117"/>
-
-      <stop offset="100%"
-            stop-color="#02040A"/>
-
-    </linearGradient>
-
-
-    <!-- ========================================= -->
-    <!-- BLUE GRADIENT -->
-    <!-- ========================================= -->
-
-    <linearGradient id="blue"
-                    x1="0"
-                    x2="1">
-
-      <stop offset="0%"
-            stop-color="#1F6FEB"/>
-
-      <stop offset="50%"
-            stop-color="#58A6FF"/>
-
-      <stop offset="100%"
-            stop-color="#79C0FF"/>
-
-    </linearGradient>
-
-
-    <!-- ========================================= -->
-    <!-- NEON LINE -->
-    <!-- ========================================= -->
-
-    <linearGradient id="neon"
-                    x1="0"
-                    x2="1">
-
-      <stop offset="0%"
-            stop-color="#1F6FEB"
-            stop-opacity="0"/>
-
-      <stop offset="50%"
-            stop-color="#58A6FF"
-            stop-opacity=".95"/>
-
-      <stop offset="100%"
-            stop-color="#1F6FEB"
-            stop-opacity="0"/>
-
-    </linearGradient>
-
-
-    <!-- ========================================= -->
-    <!-- GRID -->
-    <!-- ========================================= -->
-
-    <pattern id="grid"
-             width="32"
-             height="32"
-             patternUnits="userSpaceOnUse">
-
-      <path
-        d="M32 0H0V32"
-        fill="none"
-        stroke="#58A6FF"
-        stroke-opacity=".045"
-        stroke-width="1"/>
-
-    </pattern>
-
-
-    <!-- ========================================= -->
-    <!-- GLOW -->
-    <!-- ========================================= -->
-
-    <filter id="glow"
-            x="-100%"
-            y="-100%"
-            width="300%"
-            height="300%">
-
-      <feGaussianBlur
-        stdDeviation="5"
-        result="blur"/>
-
-      <feMerge>
-
-        <feMergeNode in="blur"/>
-
-        <feMergeNode in="SourceGraphic"/>
-
-      </feMerge>
-
-    </filter>
-
-
-    <!-- ========================================= -->
-    <!-- CLIP -->
-    <!-- ========================================= -->
-
-    <clipPath id="clip">
-
-      <rect
-        x="0"
-        y="0"
-        width="1200"
-        height="500"
-        rx="28"/>
-
-    </clipPath>
-
-  </defs>
-
-
-  <!-- ========================================= -->
-  <!-- MAIN CONTAINER -->
-  <!-- ========================================= -->
-
-  <g clip-path="url(#clip)">
-
-    <!-- Background -->
-
+  <!-- BUILD -->
+  <clipPath id="typeBuild">
     <rect
-      width="1200"
-      height="500"
-      fill="url(#panel)"/>
-
-
-    <!-- Grid -->
-
-    <rect
-      width="1200"
-      height="500"
-      fill="url(#grid)"/>
-
-
-    <!-- ======================================= -->
-    <!-- SUBTLE CENTER GLOW -->
-    <!-- ======================================= -->
-
-    <ellipse
-      cx="600"
-      cy="285"
-      rx="500"
-      ry="230"
-      fill="#1F6FEB"
-      opacity=".07"
-      filter="url(#glow)"/>
-
-
-    <!-- ======================================= -->
-    <!-- MOVING SCAN -->
-    <!-- ======================================= -->
-
-    <rect
-      x="-100"
-      y="0"
-      width="70"
-      height="500"
-      fill="#58A6FF"
-      opacity=".035">
-
+      x="60"
+      y="125"
+      width="0"
+      height="32"
+    >
       <animate
-        attributeName="x"
-        values="-100;1230"
-        dur="7s"
-        repeatCount="indefinite"/>
-
+        attributeName="width"
+        values="0;430;430;0"
+        keyTimes="0;0.35;0.72;1"
+        dur="6s"
+        repeatCount="indefinite"
+      />
     </rect>
+  </clipPath>
 
 
-    <!-- ======================================= -->
-    <!-- TOP HUD BAR -->
-    <!-- ======================================= -->
-
+  <!-- SOLVE -->
+  <clipPath id="typeSolve">
     <rect
-      x="0"
-      y="0"
-      width="1200"
-      height="58"
-      fill="#161B22"
-      opacity=".82"/>
-
-
-    <!-- Terminal buttons -->
-
-    <circle
-      cx="28"
-      cy="29"
-      r="6"
-      fill="#FF5F56"/>
-
-    <circle
-      cx="50"
-      cy="29"
-      r="6"
-      fill="#FFBD2E"/>
-
-    <circle
-      cx="72"
-      cy="29"
-      r="6"
-      fill="#27C93F"/>
-
-
-    <!-- Terminal title -->
-
-    <text
-      x="100"
-      y="34"
-      fill="#8B949E"
-      font-family="monospace"
-      font-size="13">
-
-      maingga.dev // developer-console
-
-    </text>
-
-
-    <!-- Online -->
-
-    <text
-      x="1140"
-      y="34"
-      text-anchor="end"
-      fill="#27C93F"
-      font-family="monospace"
-      font-size="12">
-
-      ● ONLINE
-
-    </text>
-
-
-    <!-- ======================================= -->
-    <!-- TERMINAL PROMPT -->
-    <!-- ======================================= -->
-
-    <g font-family="monospace">
-
-      <text
-        x="60"
-        y="100"
-        fill="#58A6FF"
-        font-size="15">
-
-        root@maingga
-
-      </text>
-
-
-      <text
-        x="192"
-        y="100"
-        fill="#8B949E"
-        font-size="15">
-
-        :
-
-      </text>
-
-
-      <text
-        x="205"
-        y="100"
-        fill="#79C0FF"
-        font-size="15">
-
-        ~/profile
-
-      </text>
-
-
-      <text
-        x="295"
-        y="100"
-        fill="#8B949E"
-        font-size="15">
-
-        $
-
-      </text>
-
-
-      <text
-        x="318"
-        y="100"
-        fill="#FFFFFF"
-        font-size="15">
-
-        ./workflow
-
-      </text>
-
-    </g>
-
-
-    <!-- ======================================= -->
-    <!-- MAIN WORKFLOW -->
-    <!-- ======================================= -->
-
-    <g font-family="monospace"
-       font-size="24">
-
-      <!-- BUILD -->
-
-      <text
-        x="60"
-        y="155"
-        fill="#FFFFFF">
-
-        <tspan
-          fill="#58A6FF">
-
-          &gt;
-
-        </tspan>
-
-        <tspan dx="10">
-
-          BUILD DIGITAL SYSTEMS
-
-        </tspan>
-
-        <tspan
-          fill="#58A6FF">
-
-          _
-
-        </tspan>
-
-        <animate
-          attributeName="opacity"
-          values=".35;1;.35"
-          dur="3s"
-          repeatCount="indefinite"/>
-
-      </text>
-
-
-      <!-- SOLVE -->
-
-      <text
-        x="60"
-        y="200"
-        fill="#FFFFFF">
-
-        <tspan
-          fill="#58A6FF">
-
-          &gt;
-
-        </tspan>
-
-        <tspan dx="10">
-
-          SOLVE REAL PROBLEMS
-
-        </tspan>
-
-        <tspan
-          fill="#58A6FF">
-
-          _
-
-        </tspan>
-
-      </text>
-
-
-      <!-- SHIP -->
-
-      <text
-        x="60"
-        y="245"
-        fill="#FFFFFF">
-
-        <tspan
-          fill="#58A6FF">
-
-          &gt;
-
-        </tspan>
-
-        <tspan dx="10">
-
-          SHIP BETTER SOFTWARE
-
-        </tspan>
-
-        <tspan
-          fill="#58A6FF">
-
-          _
-
-        </tspan>
-
-      </text>
-
-    </g>
-
-
-    <!-- ======================================= -->
-    <!-- RIGHT TELEMETRY -->
-    <!-- ======================================= -->
-
-    <g font-family="monospace"
-       font-size="12">
-
-      <!-- Runtime -->
-
-      <text
-        x="760"
-        y="105"
-        fill="#484F58">
-
-        RUNTIME
-
-      </text>
-
-
-      <text
-        x="1130"
-        y="105"
-        text-anchor="end"
-        fill="#58A6FF">
-
-        ACTIVE
-
-      </text>
-
-
-      <rect
-        x="760"
-        y="118"
-        width="370"
-        height="6"
-        rx="3"
-        fill="#21262D"/>
-
-
-      <rect
-        x="760"
-        y="118"
-        width="300"
-        height="6"
-        rx="3"
-        fill="url(#blue)">
-
-        <animate
-          attributeName="width"
-          values="260;350;300;330;260"
-          dur="5s"
-          repeatCount="indefinite"/>
-
-      </rect>
-
-
-      <!-- Build -->
-
-      <text
-        x="760"
-        y="155"
-        fill="#484F58">
-
-        BUILD
-
-      </text>
-
-
-      <text
-        x="1130"
-        y="155"
-        text-anchor="end"
-        fill="#27C93F">
-
-        READY
-
-      </text>
-
-
-      <rect
-        x="760"
-        y="168"
-        width="370"
-        height="6"
-        rx="3"
-        fill="#21262D"/>
-
-
-      <rect
-        x="760"
-        y="168"
-        width="335"
-        height="6"
-        rx="3"
-        fill="#27C93F">
-
-        <animate
-          attributeName="width"
-          values="300;355;320;345;300"
-          dur="4s"
-          repeatCount="indefinite"/>
-
-      </rect>
-
-
-      <!-- Learning -->
-
-      <text
-        x="760"
-        y="205"
-        fill="#484F58">
-
-        LEARNING
-
-      </text>
-
-
-      <text
-        x="1130"
-        y="205"
-        text-anchor="end"
-        fill="#79C0FF">
-
-        CONTINUOUS
-
-      </text>
-
-
-      <rect
-        x="760"
-        y="218"
-        width="370"
-        height="6"
-        rx="3"
-        fill="#21262D"/>
-
-
-      <rect
-        x="760"
-        y="218"
-        width="350"
-        height="6"
-        rx="3"
-        fill="#58A6FF">
-
-        <animate
-          attributeName="width"
-          values="320;355;330;350;320"
-          dur="4.5s"
-          repeatCount="indefinite"/>
-
-      </rect>
-
-    </g>
-
-
-    <!-- ======================================= -->
-    <!-- DIVIDER -->
-    <!-- ======================================= -->
-
-    <line
-      x1="60"
-      y1="285"
-      x2="1140"
-      y2="285"
-      stroke="url(#neon)"
-      stroke-width="1"
-      opacity=".65"/>
-
-
-    <!-- ======================================= -->
-    <!-- SYSTEM PIPELINE -->
-    <!-- ======================================= -->
-
-    <g
-      font-family="monospace"
-      font-size="13">
-
-      <!-- success -->
-
-      <text
-        x="60"
-        y="325"
-        fill="#27C93F">
-
-        ✓
-
-      </text>
-
-
-      <text
-        x="84"
-        y="325"
-        fill="#8B949E">
-
-        system initialized
-
-      </text>
-
-
-      <!-- pipeline -->
-
-      <text
-        x="250"
-        y="325"
-        fill="#58A6FF">
-
-        •
-
-      </text>
-
-
-      <text
-        x="272"
-        y="325"
-        fill="#C9D1D9">
-
-        build
-
-      </text>
-
-
-      <text
-        x="322"
-        y="325"
-        fill="#58A6FF">
-
-        →
-
-      </text>
-
-
-      <text
-        x="350"
-        y="325"
-        fill="#C9D1D9">
-
-        test
-
-      </text>
-
-
-      <text
-        x="398"
-        y="325"
-        fill="#58A6FF">
-
-        →
-
-      </text>
-
-
-      <text
-        x="426"
-        y="325"
-        fill="#C9D1D9">
-
-        deploy
-
-      </text>
-
-
-      <text
-        x="490"
-        y="325"
-        fill="#58A6FF">
-
-        →
-
-      </text>
-
-
-      <text
-        x="518"
-        y="325"
-        fill="#C9D1D9">
-
-        improve
-
-      </text>
-
-    </g>
-
-
-    <!-- ======================================= -->
-    <!-- TECH TAGS -->
-    <!-- ======================================= -->
-
-    <g
-      font-family="monospace"
-      font-size="12"
-      text-anchor="middle">
-
-      <!-- WEB -->
-
-      <rect
-        x="150"
-        y="370"
-        width="130"
-        height="36"
-        rx="18"
-        fill="#0D1117"
-        stroke="#30363D"/>
-
-      <text
-        x="215"
-        y="393"
-        fill="#58A6FF">
-
-        WEB
-
-      </text>
-
-
-      <!-- MOBILE -->
-
-      <rect
-        x="310"
-        y="370"
-        width="130"
-        height="36"
-        rx="18"
-        fill="#0D1117"
-        stroke="#30363D"/>
-
-      <text
-        x="375"
-        y="393"
-        fill="#58A6FF">
-
-        MOBILE
-
-      </text>
-
-
-      <!-- BACKEND -->
-
-      <rect
-        x="470"
-        y="370"
-        width="150"
-        height="36"
-        rx="18"
-        fill="#0D1117"
-        stroke="#30363D"/>
-
-      <text
-        x="545"
-        y="393"
-        fill="#58A6FF">
-
-        BACKEND
-
-      </text>
-
-
-      <!-- CLOUD -->
-
-      <rect
-        x="650"
-        y="370"
-        width="130"
-        height="36"
-        rx="18"
-        fill="#0D1117"
-        stroke="#30363D"/>
-
-      <text
-        x="715"
-        y="393"
-        fill="#58A6FF">
-
-        CLOUD
-
-      </text>
-
-
-      <!-- IoT -->
-
-      <rect
-        x="810"
-        y="370"
-        width="100"
-        height="36"
-        rx="18"
-        fill="#0D1117"
-        stroke="#30363D"/>
-
-      <text
-        x="860"
-        y="393"
-        fill="#58A6FF">
-
-        IoT
-
-      </text>
-
-    </g>
-
-
-    <!-- ======================================= -->
-    <!-- FOOTER -->
-    <!-- ======================================= -->
+      x="60"
+      y="168"
+      width="0"
+      height="32"
+    >
+      <animate
+        attributeName="width"
+        values="0;390;390;0"
+        keyTimes="0;0.35;0.72;1"
+        dur="6s"
+        begin="1.8s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </clipPath>
+
+
+  <!-- SHIP -->
+  <clipPath id="typeShip">
+    <rect
+      x="60"
+      y="211"
+      width="0"
+      height="32"
+    >
+      <animate
+        attributeName="width"
+        values="0;420;420;0"
+        keyTimes="0;0.35;0.72;1"
+        dur="6s"
+        begin="3.6s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </clipPath>
+
+</defs>
+
+
+<g font-family="monospace">
+
+  <!-- ================================================= -->
+  <!-- BUILD -->
+  <!-- ================================================= -->
+
+  <g clip-path="url(#typeBuild)">
 
     <text
       x="60"
-      y="455"
-      fill="#484F58"
-      font-family="monospace"
-      font-size="11">
-
-      SYSTEM // BUILD // TEST // DEPLOY // IMPROVE
-
+      y="150"
+      fill="#58A6FF"
+      font-size="22"
+    >
+      &gt;
     </text>
-
 
     <text
-      x="1140"
-      y="455"
-      text-anchor="end"
-      fill="#58A6FF"
-      font-family="monospace"
-      font-size="11">
-
-      MAINGGA.DEV
-
+      x="90"
+      y="150"
+      fill="#FFFFFF"
+      font-size="22"
+    >
+      BUILD DIGITAL SYSTEMS
     </text>
-
-
-    <!-- ======================================= -->
-    <!-- BLINKING CURSOR -->
-    <!-- ======================================= -->
-
-    <rect
-      x="60"
-      y="470"
-      width="9"
-      height="13"
-      rx="1"
-      fill="#58A6FF"
-      filter="url(#glow)">
-
-      <animate
-        attributeName="opacity"
-        values="1;0;1"
-        dur="1s"
-        repeatCount="indefinite"/>
-
-    </rect>
-
-
-    <!-- ======================================= -->
-    <!-- CORNER DECORATION -->
-    <!-- ======================================= -->
-
-    <g
-      fill="none"
-      stroke="#58A6FF"
-      stroke-opacity=".22"
-      stroke-width="1">
-
-      <!-- Top left -->
-
-      <path d="M25 75 H90"/>
-      <path d="M25 75 V125"/>
-
-
-      <!-- Top right -->
-
-      <path d="M1110 75 H1175"/>
-      <path d="M1175 75 V125"/>
-
-
-      <!-- Bottom left -->
-
-      <path d="M25 425 H90"/>
-      <path d="M25 375 V425"/>
-
-
-      <!-- Bottom right -->
-
-      <path d="M1110 425 H1175"/>
-      <path d="M1175 375 V425"/>
-
-    </g>
 
   </g>
 
-</svg>
+
+  <!-- ================================================= -->
+  <!-- SOLVE -->
+  <!-- ================================================= -->
+
+  <g clip-path="url(#typeSolve)">
+
+    <text
+      x="60"
+      y="193"
+      fill="#58A6FF"
+      font-size="22"
+    >
+      &gt;
+    </text>
+
+    <text
+      x="90"
+      y="193"
+      fill="#FFFFFF"
+      font-size="22"
+    >
+      SOLVE REAL PROBLEMS
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- SHIP -->
+  <!-- ================================================= -->
+
+  <g clip-path="url(#typeShip)">
+
+    <text
+      x="60"
+      y="236"
+      fill="#58A6FF"
+      font-size="22"
+    >
+      &gt;
+    </text>
+
+    <text
+      x="90"
+      y="236"
+      fill="#FFFFFF"
+      font-size="22"
+    >
+      SHIP BETTER SOFTWARE
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- BLINKING CURSOR -->
+  <!-- ================================================= -->
+
+  <rect
+    x="60"
+    y="126"
+    width="10"
+    height="24"
+    rx="1"
+    fill="#58A6FF"
+    filter="url(#glow)"
+  >
+
+    <animate
+      attributeName="x"
+      values="60;500;60"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0;1"
+      keyTimes="0;0.65;0.66;0.85;1"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+
+  <!-- ================================================= -->
+  <!-- SECOND CURSOR -->
+  <!-- ================================================= -->
+
+  <rect
+    x="60"
+    y="169"
+    width="10"
+    height="24"
+    rx="1"
+    fill="#58A6FF"
+    filter="url(#glow)"
+  >
+
+    <animate
+      attributeName="x"
+      values="60;460;60"
+      dur="6s"
+      begin="1.8s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.1;0.15;0.65;1"
+      dur="6s"
+      begin="1.8s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+
+  <!-- ================================================= -->
+  <!-- THIRD CURSOR -->
+  <!-- ================================================= -->
+
+  <rect
+    x="60"
+    y="212"
+    width="10"
+    height="24"
+    rx="1"
+    fill="#58A6FF"
+    filter="url(#glow)"
+  >
+
+    <animate
+      attributeName="x"
+      values="60;490;60"
+      dur="6s"
+      begin="3.6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.1;0.15;0.65;1"
+      dur="6s"
+      begin="3.6s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+</g>
