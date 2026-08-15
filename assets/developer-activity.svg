@@ -1,19 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="300"
-     viewBox="0 0 1200 300"
-     preserveAspectRatio="xMidYMid meet">
-
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="320"
+  viewBox="0 0 1200 320"
+  preserveAspectRatio="xMidYMid meet"
+>
   <defs>
-    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1F6FEB"/>
-      <stop offset="100%" stop-color="#58A6FF"/>
+
+    <!-- ========================================================= -->
+    <!-- GRADIENTS -->
+    <!-- ========================================================= -->
+
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB">
+        <animate
+          attributeName="stop-color"
+          values="#1F6FEB;#58A6FF;#1F6FEB"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="100%" stop-color="#58A6FF">
+        <animate
+          attributeName="stop-color"
+          values="#58A6FF;#79C0FF;#58A6FF"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </stop>
     </linearGradient>
 
-    <pattern id="grid"
-             width="32"
-             height="32"
-             patternUnits="userSpaceOnUse">
+    <linearGradient
+      id="scanGradient"
+      x1="0%"
+      y1="0%"
+      x2="100%"
+      y2="0%"
+    >
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- ========================================================= -->
+    <!-- GRID -->
+    <!-- ========================================================= -->
+
+    <pattern
+      id="grid"
+      width="32"
+      height="32"
+      patternUnits="userSpaceOnUse"
+    >
       <path
         d="M32 0H0V32"
         fill="none"
@@ -21,175 +60,697 @@
         stroke-opacity="0.045"
       />
     </pattern>
+
+    <!-- ========================================================= -->
+    <!-- GLOW -->
+    <!-- ========================================================= -->
+
+    <filter
+      id="glow"
+      x="-50%"
+      y="-50%"
+      width="200%"
+      height="200%"
+    >
+      <feGaussianBlur
+        stdDeviation="3"
+        result="blur"
+      />
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
-  <!-- Background -->
+
+  <!-- =========================================================== -->
+  <!-- MAIN CONTAINER -->
+  <!-- =========================================================== -->
+
   <rect
     x="5"
     y="5"
     width="1190"
-    height="290"
-    rx="20"
+    height="310"
+    rx="22"
     fill="#0D1117"
     stroke="#30363D"
   />
 
+  <!-- Animated grid -->
   <rect
     x="5"
     y="5"
     width="1190"
-    height="290"
-    rx="20"
+    height="310"
+    rx="22"
     fill="url(#grid)"
   />
 
-  <!-- Main content -->
-  <g font-family="monospace">
 
-    <!-- Header -->
+  <!-- =========================================================== -->
+  <!-- MOVING SCAN LINE -->
+  <!-- =========================================================== -->
+
+  <rect
+    x="-300"
+    y="5"
+    width="260"
+    height="310"
+    fill="url(#scanGradient)"
+    opacity="0.10"
+  >
+    <animate
+      attributeName="x"
+      from="-300"
+      to="1240"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+
+  <!-- =========================================================== -->
+  <!-- CONTENT -->
+  <!-- =========================================================== -->
+
+  <g
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+  >
+
+    <!-- ========================================================= -->
+    <!-- HEADER -->
+    <!-- ========================================================= -->
+
     <text
       x="40"
-      y="42"
+      y="43"
       fill="#58A6FF"
       font-size="13"
-      font-weight="bold">
+      font-weight="bold"
+    >
       ◈ DEVELOPER ACTIVITY // MAINGGA
     </text>
 
+    <!-- blinking online -->
     <text
       x="1160"
-      y="42"
+      y="43"
       text-anchor="end"
       fill="#27C93F"
-      font-size="11">
+      font-size="11"
+    >
       ● PUBLIC DATA
+
+      <animate
+        attributeName="opacity"
+        values="1;0.35;1"
+        dur="2s"
+        repeatCount="indefinite"
+      />
     </text>
+
+
+    <!-- Header line -->
 
     <line
       x1="40"
-      y1="60"
+      y1="61"
       x2="1160"
-      y2="60"
+      y2="61"
       stroke="#21262D"
     />
 
-    <!-- Profile -->
+    <!-- Moving blue signal -->
+
+    <rect
+      x="40"
+      y="60"
+      width="120"
+      height="2"
+      fill="url(#blueGradient)"
+      filter="url(#glow)"
+    >
+      <animate
+        attributeName="x"
+        values="40;1040;40"
+        dur="6s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+
+    <!-- ========================================================= -->
+    <!-- PROFILE -->
+    <!-- ========================================================= -->
+
     <text
       x="40"
-      y="92"
+      y="94"
       fill="#8B949E"
-      font-size="11">
+      font-size="11"
+      letter-spacing="1"
+    >
       PROFILE
     </text>
 
     <text
       x="40"
-      y="120"
+      y="123"
       fill="#FFFFFF"
-      font-size="21"
-      font-weight="bold">
+      font-size="22"
+      font-weight="bold"
+    >
       github.com/maingga
     </text>
 
     <text
       x="40"
-      y="144"
+      y="147"
       fill="#8B949E"
-      font-size="11">
+      font-size="11"
+    >
       Repositories · Contributions · Open-source activity
     </text>
 
-    <!-- Contribution -->
+
+    <!-- ========================================================= -->
+    <!-- CONTRIBUTION SIGNAL -->
+    <!-- ========================================================= -->
+
     <text
       x="40"
-      y="178"
+      y="181"
       fill="#58A6FF"
       font-size="11"
-      font-weight="bold">
+      font-weight="bold"
+      letter-spacing="1"
+    >
       CONTRIBUTION SIGNAL
     </text>
 
-    <!-- Contribution blocks -->
-    <g transform="translate(40,192)">
 
-      <rect x="0" y="0" width="17" height="17" rx="3" fill="#161B22"/>
-      <rect x="22" y="0" width="17" height="17" rx="3" fill="#0E4429"/>
-      <rect x="44" y="0" width="17" height="17" rx="3" fill="#006D32"/>
-      <rect x="66" y="0" width="17" height="17" rx="3" fill="#26A641"/>
-      <rect x="88" y="0" width="17" height="17" rx="3" fill="#39D353"/>
+    <!-- ========================================================= -->
+    <!-- CONTRIBUTION BLOCKS -->
+    <!-- ========================================================= -->
 
-      <rect x="118" y="0" width="17" height="17" rx="3" fill="#161B22"/>
-      <rect x="140" y="0" width="17" height="17" rx="3" fill="#0E4429"/>
-      <rect x="162" y="0" width="17" height="17" rx="3" fill="#006D32"/>
-      <rect x="184" y="0" width="17" height="17" rx="3" fill="#26A641"/>
-      <rect x="206" y="0" width="17" height="17" rx="3" fill="#39D353"/>
+    <g transform="translate(40,195)">
 
-      <rect x="236" y="0" width="17" height="17" rx="3" fill="#0E4429"/>
-      <rect x="258" y="0" width="17" height="17" rx="3" fill="#006D32"/>
-      <rect x="280" y="0" width="17" height="17" rx="3" fill="#26A641"/>
-      <rect x="302" y="0" width="17" height="17" rx="3" fill="#39D353"/>
+      <!-- Block 01 -->
 
-      <rect x="332" y="0" width="17" height="17" rx="3" fill="#161B22"/>
-      <rect x="354" y="0" width="17" height="17" rx="3" fill="#0E4429"/>
-      <rect x="376" y="0" width="17" height="17" rx="3" fill="#006D32"/>
-      <rect x="398" y="0" width="17" height="17" rx="3" fill="#26A641"/>
-      <rect x="420" y="0" width="17" height="17" rx="3" fill="#39D353"/>
+      <rect
+        x="0"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#161B22"
+      />
 
-      <rect x="450" y="0" width="17" height="17" rx="3" fill="#0E4429"/>
-      <rect x="472" y="0" width="17" height="17" rx="3" fill="#006D32"/>
-      <rect x="494" y="0" width="17" height="17" rx="3" fill="#26A641"/>
-      <rect x="516" y="0" width="17" height="17" rx="3" fill="#39D353"/>
+      <rect
+        x="22"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#0E4429"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.45;1;0.45"
+          dur="2.4s"
+          begin="0s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="44"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#006D32"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.5;1;0.5"
+          dur="2.4s"
+          begin="0.3s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="66"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#26A641"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.55;1;0.55"
+          dur="2.4s"
+          begin="0.6s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="88"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#39D353"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.65;1;0.65"
+          dur="2.4s"
+          begin="0.9s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+
+      <!-- Block 02 -->
+
+      <rect
+        x="118"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#161B22"
+      />
+
+      <rect
+        x="140"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#0E4429"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.45;1;0.45"
+          dur="2.4s"
+          begin="1.2s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="162"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#006D32"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.5;1;0.5"
+          dur="2.4s"
+          begin="1.5s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="184"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#26A641"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.55;1;0.55"
+          dur="2.4s"
+          begin="1.8s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="206"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#39D353"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.65;1;0.65"
+          dur="2.4s"
+          begin="2.1s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+
+      <!-- Block 03 -->
+
+      <rect
+        x="236"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#0E4429"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.45;1;0.45"
+          dur="2.4s"
+          begin="0.5s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="258"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#006D32"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.5;1;0.5"
+          dur="2.4s"
+          begin="0.8s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="280"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#26A641"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.55;1;0.55"
+          dur="2.4s"
+          begin="1.1s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="302"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#39D353"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.65;1;0.65"
+          dur="2.4s"
+          begin="1.4s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+
+      <!-- Block 04 -->
+
+      <rect
+        x="332"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#161B22"
+      />
+
+      <rect
+        x="354"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#0E4429"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.45;1;0.45"
+          dur="2.4s"
+          begin="0.7s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="376"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#006D32"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.5;1;0.5"
+          dur="2.4s"
+          begin="1s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="398"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#26A641"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.55;1;0.55"
+          dur="2.4s"
+          begin="1.3s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <rect
+        x="420"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#39D353"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.65;1;0.65"
+          dur="2.4s"
+          begin="1.6s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+
+      <!-- Block 05 -->
+
+      <rect
+        x="450"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#0E4429"
+      />
+
+      <rect
+        x="472"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#006D32"
+      />
+
+      <rect
+        x="494"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#26A641"
+      />
+
+      <rect
+        x="516"
+        y="0"
+        width="17"
+        height="17"
+        rx="3"
+        fill="#39D353"
+      >
+        <animate
+          attributeName="opacity"
+          values="0.5;1;0.5"
+          dur="2.4s"
+          begin="1.8s"
+          repeatCount="indefinite"
+        />
+      </rect>
 
     </g>
 
-    <!-- Legend -->
+
+    <!-- ========================================================= -->
+    <!-- LEGEND -->
+    <!-- ========================================================= -->
+
     <text
       x="40"
-      y="235"
+      y="236"
       fill="#484F58"
-      font-size="10">
+      font-size="10"
+    >
       LESS
     </text>
 
-    <rect x="78" y="226" width="12" height="12" rx="2" fill="#161B22"/>
-    <rect x="96" y="226" width="12" height="12" rx="2" fill="#0E4429"/>
-    <rect x="114" y="226" width="12" height="12" rx="2" fill="#006D32"/>
-    <rect x="132" y="226" width="12" height="12" rx="2" fill="#26A641"/>
-    <rect x="150" y="226" width="12" height="12" rx="2" fill="#39D353"/>
+    <rect
+      x="78"
+      y="227"
+      width="12"
+      height="12"
+      rx="2"
+      fill="#161B22"
+    />
+
+    <rect
+      x="96"
+      y="227"
+      width="12"
+      height="12"
+      rx="2"
+      fill="#0E4429"
+    />
+
+    <rect
+      x="114"
+      y="227"
+      width="12"
+      height="12"
+      rx="2"
+      fill="#006D32"
+    />
+
+    <rect
+      x="132"
+      y="227"
+      width="12"
+      height="12"
+      rx="2"
+      fill="#26A641"
+    />
+
+    <rect
+      x="150"
+      y="227"
+      width="12"
+      height="12"
+      rx="2"
+      fill="#39D353"
+    />
 
     <text
       x="176"
-      y="235"
+      y="236"
       fill="#484F58"
-      font-size="10">
+      font-size="10"
+    >
       MORE
     </text>
 
-    <!-- Right panel -->
+
+    <!-- ========================================================= -->
+    <!-- RIGHT PANEL -->
+    <!-- ========================================================= -->
+
     <rect
       x="700"
       y="82"
       width="420"
-      height="150"
+      height="152"
       rx="16"
       fill="#111820"
       stroke="#21262D"
     />
 
+    <!-- Animated border -->
+    <rect
+      x="700"
+      y="82"
+      width="420"
+      height="152"
+      rx="16"
+      fill="none"
+      stroke="url(#blueGradient)"
+      stroke-width="1"
+      stroke-dasharray="35 385"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="0"
+        to="-420"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+
+    <!-- Accent line -->
+
     <rect
       x="700"
       y="82"
       width="4"
-      height="150"
+      height="152"
       rx="2"
-      fill="url(#blue)"
-    />
+      fill="url(#blueGradient)"
+    >
+      <animate
+        attributeName="opacity"
+        values="0.5;1;0.5"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+
+    <!-- Panel text -->
 
     <text
       x="730"
       y="112"
       fill="#8B949E"
-      font-size="10">
+      font-size="10"
+      letter-spacing="1"
+    >
       METRICS MODE
     </text>
 
@@ -198,35 +759,70 @@
       y="142"
       fill="#58A6FF"
       font-size="17"
-      font-weight="bold">
+      font-weight="bold"
+    >
       LIVE GITHUB PROFILE
     </text>
+
+    <!-- Terminal typing -->
 
     <text
       x="730"
       y="168"
       fill="#8B949E"
-      font-size="11">
-      Public activity visualization
+      font-size="11"
+    >
+      &gt; tracking public activity
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;1"
+        keyTimes="0;0.2;0.7;1"
+        dur="3s"
+        repeatCount="indefinite"
+      />
     </text>
 
     <text
       x="730"
-      y="191"
+      y="190"
       fill="#8B949E"
-      font-size="11">
-      Repository-safe visual layer
+      font-size="11"
+    >
+      &gt; repository-safe visual layer
+
+      <animate
+        attributeName="opacity"
+        values="0;0;1;1"
+        keyTimes="0;0.35;0.55;1"
+        dur="3s"
+        repeatCount="indefinite"
+      />
     </text>
+
+    <!-- Status -->
 
     <text
       x="730"
-      y="215"
+      y="216"
       fill="#27C93F"
-      font-size="10">
-      STATUS: STABLE
+      font-size="10"
+    >
+      ● STATUS: STABLE
+
+      <animate
+        attributeName="opacity"
+        values="1;0.3;1"
+        dur="1.8s"
+        repeatCount="indefinite"
+      />
     </text>
 
-    <!-- Footer -->
+
+    <!-- ========================================================= -->
+    <!-- FOOTER -->
+    <!-- ========================================================= -->
+
     <line
       x1="40"
       y1="265"
@@ -237,20 +833,23 @@
 
     <text
       x="40"
-      y="283"
+      y="284"
       fill="#484F58"
-      font-size="9">
+      font-size="9"
+    >
       BUILD · TEST · DEPLOY · LEARN · IMPROVE
     </text>
 
     <text
       x="1160"
-      y="283"
+      y="284"
       text-anchor="end"
       fill="#30363D"
-      font-size="9">
+      font-size="9"
+    >
       MAINGGA // DEV
     </text>
 
   </g>
+
 </svg>
