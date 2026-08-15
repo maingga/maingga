@@ -16,21 +16,11 @@ alt="Ahmad Nana Maingga — Futuristic Developer Header"
 
 <img
 src="./assets/developer-typing.svg"
-width="86%"
+width="90%"
 alt="Developer terminal typing animation"
 />
 
 <br><br>
-
-<img
-src="./assets/identity-network.svg"
-width="88%"
-alt="Developer identity network visualization"
-/>
-
-<br><br>
-
-<!-- PROFILE VIEWS -->
 
 <img
 src="https://komarev.com/ghpvc/?username=maingga&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge"
@@ -53,32 +43,63 @@ I'm an Informatics Engineering student focused on building practical, scalable, 
 
 I enjoy working across the stack — from designing interfaces and developing APIs to managing databases, integrating payment systems, deploying applications, and experimenting with IoT.
 
-My main interests include full-stack web development, backend engineering, mobile applications, cloud computing, software testing, and IoT systems.
+My main interests include:
+
+🌐 Full-stack web development
+
+⚙️ Backend engineering
+
+📱 Mobile application development
+
+☁️ Cloud computing
+
+🧪 Software testing
+
+🔌 IoT systems
+
+🏗️ System architecture
 
 Current Focus
 
-🔭 Building full-stack web applications
 
-⚙️ Exploring backend architecture and system design
 
-☁️ Learning cloud computing, Docker, and CI/CD
+Focus
 
-📱 Developing cross-platform mobile applications
+🔭
 
-🔌 Experimenting with ESP32 and IoT systems
+Building full-stack web applications
 
-🧪 Improving software testing and engineering practices
+⚙️
+
+Exploring backend architecture and system design
+
+☁️
+
+Learning cloud computing, Docker, and CI/CD
+
+📱
+
+Developing cross-platform mobile applications
+
+🔌
+
+Experimenting with ESP32 and IoT systems
+
+🧪
+
+Improving software testing and engineering practices
 
 02 · ⚡ Engineering Focus
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 🌐 Web Engineering
 
 Building responsive interfaces, scalable applications, API integrations, and modern frontend architectures.
+
+Technologies
 
 Next.js · React · TypeScript · Tailwind CSS · Laravel
 
@@ -90,19 +111,21 @@ Next.js · React · TypeScript · Tailwind CSS · Laravel
 
 Developing REST APIs, authentication systems, business logic, database architecture, and payment integrations.
 
+Technologies
+
 Laravel · PHP · Node.js · NestJS · MySQL
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 📱 Mobile Engineering
 
 Creating cross-platform applications with clean interfaces and reliable backend connectivity.
+
+Technologies
 
 Flutter · Java · Android · Firebase
 
@@ -114,10 +137,11 @@ Flutter · Java · Android · Firebase
 
 Connecting microcontrollers, sensors, cloud services, and applications for monitoring and automation.
 
+Technologies
+
 ESP32 · Arduino · Firebase · Sensors
 
 </td>
-
 </tr>
 </table>
 
@@ -127,10 +151,7 @@ ESP32 · Arduino · Firebase · Sensors
 
 FRONTEND
 
-<img
-src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind"
-alt="Frontend technology stack"
-/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Frontend technology stack" />
 
 <br>
 
@@ -140,10 +161,7 @@ alt="Frontend technology stack"
 
 BACKEND
 
-<img
-src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs"
-alt="Backend technology stack"
-/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" alt="Backend technology stack" />
 
 <br>
 
@@ -153,10 +171,7 @@ alt="Backend technology stack"
 
 MOBILE & IoT
 
-<img
-src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino"
-alt="Mobile and IoT technology stack"
-/>
+<img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,arduino" alt="Mobile and IoT technology stack" />
 
 <br>
 
@@ -166,10 +181,7 @@ alt="Mobile and IoT technology stack"
 
 DATABASE & CLOUD
 
-<img
-src="https://skillicons.dev/icons?i=mysql,firebase"
-alt="Database and cloud technologies"
-/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database and cloud technologies" />
 
 <br>
 
@@ -179,10 +191,7 @@ alt="Database and cloud technologies"
 
 DEVOPS & TOOLS
 
-<img
-src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode"
-alt="DevOps and engineering tools"
-/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode" alt="DevOps and engineering tools" />
 
 <br>
 
@@ -270,46 +279,44 @@ ESP32 · Arduino · Firebase · Sensors
 
 <div align="center">
 
-                              ┌────────────────────┐
-                              │       USERS        │
-                              └─────────┬──────────┘
-                                        │
-              ┌─────────────────────────┼─────────────────────────┐
-              │                         │                         │
-              ▼                         ▼                         ▼
-       ┌──────────────┐          ┌──────────────┐          ┌──────────────┐
-       │     WEB      │          │    MOBILE    │          │     IoT      │
-       │   Next.js    │          │   Flutter    │          │    ESP32     │
-       │    React     │          │   Android    │          │   Arduino    │
-       └──────┬───────┘          └──────┬───────┘          └──────┬───────┘
-              │                         │                         │
-              └─────────────────────────┼─────────────────────────┘
-                                        │
-                                        ▼
-                              ┌────────────────────┐
-                              │     API LAYER      │
-                              │  Laravel · Node.js │
-                              └─────────┬──────────┘
-                                        │
-                 ┌──────────────────────┼──────────────────────┐
-                 │                      │                      │
-                 ▼                      ▼                      ▼
-          ┌─────────────┐        ┌─────────────┐        ┌─────────────┐
-          │    MySQL    │        │  Firebase   │        │   Payment   │
-          │  Database   │        │    Cloud    │        │   Gateway   │
-          └─────────────┘        └─────────────┘        └─────────────┘
-                                        │
-                                        ▼
-                              ┌────────────────────┐
-                              │  Docker · Cloud    │
-                              │ Deployment Layer    │
-                              └────────────────────┘
+<pre>
+                         ┌────────────────────┐
+                         │       USERS        │
+                         └─────────┬──────────┘
+                                   │
+          ┌────────────────────────┼────────────────────────┐
+          │                        │                        │
+          ▼                        ▼                        ▼
+   ┌──────────────┐        ┌──────────────┐        ┌──────────────┐
+   │     WEB      │        │    MOBILE    │        │     IoT      │
+   │   Next.js    │        │   Flutter    │        │    ESP32     │
+   │    React     │        │   Android    │        │   Arduino    │
+   └──────┬───────┘        └──────┬───────┘        └──────┬───────┘
+          │                        │                        │
+          └────────────────────────┼────────────────────────┘
+                                   │
+                                   ▼
+                         ┌────────────────────┐
+                         │     API LAYER      │
+                         │  Laravel · Node.js │
+                         └─────────┬──────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+              ▼                    ▼                    ▼
+       ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+       │    MySQL    │      │  Firebase   │      │   Payment   │
+       │  Database   │      │    Cloud    │      │   Gateway   │
+       └─────────────┘      └─────────────┘      └─────────────┘
+                                   │
+                                   ▼
+                         ┌────────────────────┐
+                         │  Docker · Cloud    │
+                         │ Deployment Layer   │
+                         └────────────────────┘
+</pre>
 
-<br>
-
-<sub>
-A simplified representation of the technologies and systems I work with.
-</sub>
+<sub>A simplified representation of the technologies and systems I work with.</sub>
 
 </div>
 
@@ -344,18 +351,28 @@ IMPROVE
 
 <div align="center">
 
+🏗️ Architecture
+
+☁️ Cloud
+
+⚙️ Engineering
+
 System Design
- · 
-Backend Architecture
- · 
+
 Cloud Engineering
 
-<br><br>
+Backend Architecture
+
+Software Architecture
 
 Docker
- · 
+
 CI/CD
- · 
+
+API Design
+
+Deployment
+
 Software Testing
 
 </div>
@@ -376,7 +393,7 @@ alt="GitHub developer activity dashboard"
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=maingga&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true"
-width="96%"
+width="100%"
 alt="GitHub contribution activity graph"
 />
 
@@ -386,11 +403,8 @@ alt="GitHub contribution activity graph"
 
 09 · 💡 Development Principles
 
-<div align="center">
-
 <table>
 <tr>
-
 <td align="center" width="20%">
 
 SIMPLE
@@ -430,9 +444,10 @@ IMPROVE
 Learn from every iteration.
 
 </td>
-
 </tr>
 </table>
+
+<div align="center">
 
 <br>
 
@@ -451,44 +466,30 @@ Let's build something meaningful.
 <br>
 
 <a href="https://github.com/maingga">
-  <img
-    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
-  
+ 
 
 <a href="https://www.linkedin.com/in/ahmad-nana-maingga-b4a82021b">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
 
-  
+ 
 
 <a href="https://www.instagram.com/_maingg/">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"
-    alt="Instagram"
-  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
 </a>
 
-  
+ 
 
 <a href="mailto:nanamaingga12@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"
-    alt="Email"
-  />
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 
 <br><br>
 
-<sub>
-Open to collaboration, internships, and opportunities to build meaningful software.
-</sub>
+<sub>Open to collaboration, internships, and opportunities to build meaningful software.</sub>
 
 <br><br>
 
@@ -500,8 +501,6 @@ alt="Futuristic developer footer"
 
 <br>
 
-<sub>
-© Ahmad Nana Maingga · Building the future, one commit at a time.
-</sub>
+<sub>© Ahmad Nana Maingga · Building the future, one commit at a time.</sub>
 
 </div>
